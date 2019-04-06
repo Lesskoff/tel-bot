@@ -1,0 +1,1328 @@
+{
+  "config": {
+    "csrf_token": "azRIr4ggFfwdM13p6Oi8AdEThF50kgAd",
+    "viewer": null,
+    "viewerId": null
+  },
+  "country_code": "DE",
+  "language_code": "en",
+  "locale": "en_US",
+  "entry_data": {
+    "ProfilePage": [{
+      "logging_page_id": "profilePage_186438325",
+      "show_suggested_profiles": false,
+      "graphql": {
+        "user": {
+          "biography": "\u041f\u0440\u043e\u0441\u0442\u0430\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432 \u0441\u0435\u0431\u044f \u043f\u043e\u0432\u0435\u0440\u0438\u043b\u0430\n...\u0421\u0430\u043c\u044b\u0439 \u043c\u0438\u043b\u044b\u0439 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u0435\u0440\ud83d\udc30\n\u2800\n\u0416\u043c\u0443 \u0431\u043e\u043b\u044c\u0448\u0435, \u0447\u0435\u043c \u0442\u0432\u043e\u0439 \u043f\u0430\u0440\u0435\u043d\u044c\n\u2800\n\u0417\u0430\u043b, \u0444\u0435\u043c\u0438\u043d\u0438\u0437\u043c \u0438 \u044f\u0439\u0446\u0430\n\u2800\n\u041c\u043e\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u044b\ud83d\udc47\ud83c\udffb",
+          "blocked_by_viewer": false,
+          "country_block": false,
+          "external_url": "https://linktr.ee/alexandramitroshina",
+          "external_url_linkshimmed": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Falexandramitroshina\u0026e=ATOEfgcQZQgj4iLfzx4C3Lgn-25iS6LhTvbJvke_AR_eU4U7AGl9OhjfQHL7NPEt7HZ9IBWL",
+          "edge_followed_by": {
+            "count": 1383021
+          },
+          "followed_by_viewer": false,
+          "edge_follow": {
+            "count": 58
+          },
+          "follows_viewer": false,
+          "full_name": "\u0423\u043c\u043d\u044b\u0439 \u0431\u043b\u043e\u0433\u0435\u0440 \u0421\u0430\u0448\u0430 \u041c\u0438\u0442\u0440\u043e\u0448\u0438\u043d\u0430\u270d\ud83c\udffb",
+          "has_channel": false,
+          "has_blocked_viewer": false,
+          "highlight_reel_count": 116,
+          "has_requested_viewer": false,
+          "id": "186438325",
+          "is_business_account": true,
+          "is_joined_recently": false,
+          "business_category_name": "Creators \u0026 Celebrities",
+          "is_private": false,
+          "is_verified": false,
+          "edge_mutual_followed_by": {
+            "count": 0,
+            "edges": []
+          },
+          "profile_pic_url": "https://scontent-frx5-1.cdninstagram.com/vp/4a18a237a93580e26eacd0790963dcea/5D2A09D2/t51.2885-19/s150x150/46296941_2089258357760972_881196022053732352_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+          "profile_pic_url_hd": "https://scontent-frx5-1.cdninstagram.com/vp/4cb87227180960790455f4b514ac97e2/5D342D22/t51.2885-19/s320x320/46296941_2089258357760972_881196022053732352_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+          "requested_by_viewer": false,
+          "username": "alexandramitroshina",
+          "connected_fb_page": null,
+          "edge_felix_video_timeline": {
+            "count": 0,
+            "page_info": {
+              "has_next_page": false,
+              "end_cursor": null
+            },
+            "edges": []
+          },
+          "edge_owner_to_timeline_media": {
+            "count": 2471,
+            "page_info": {
+              "has_next_page": true,
+              "end_cursor": "QVFBV1F4VWtuYlFDVGkxczN2N3dlMUEyVlNqX3JIU2o3THBnWEtROG1pZTZsRFI4NVFMZXpXRGdBczRRcnJjYzU3THNTcjRpN1BjcXd2SU0xWWZQSFNkag=="
+            },
+            "edges": [{
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2013092358066250318",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "70% \u0436\u0435\u043d\u0449\u0438\u043d \u043d\u0435 \u0432\u0438\u0434\u044f\u0442 \u0432 \u043c\u0435\u0434\u0438\u0430 \u0438 \u0440\u0435\u043a\u043b\u0430\u043c\u0435 \u043c\u043e\u0434\u0435\u043b\u0435\u0439, \u043f\u043e\u0445\u043e\u0436\u0438\u0445 \u043d\u0430 \u043d\u0438\u0445\n\u2800\n70% \u0434\u0435\u0432\u043e\u0447\u0435\u043a \u043e\u0442 10 (!) \u0434\u043e 17 \u043b\u0435\u0442 \u0438\u0441\u043f\u044b\u0442\u044b\u0432\u0430\u044e\u0442 \u0442\u0440\u0435\u0432\u043e\u0433\u0443 \u0438 \u043d\u0435\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u043e \u0441\u0432\u043e\u0438\u043c \u0442\u0435\u043b\u043e\u043c, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0441\u0440\u0430\u0432\u043d\u0438\u0432\u0430\u044e\u0442 \u0441\u0435\u0431\u044f \u0441 \u043e\u0431\u0440\u0430\u0437\u0430\u043c\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u043d\u0438 \u0432\u0438\u0434\u044f\u0442 \u043d\u0430 \u044d\u043a\u0440\u0430\u043d\u0430\u0445 \u0438 \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0430\u0445, \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0442 \u0441\u0447\u0438\u0442\u0430\u0442\u044c, \u0447\u0442\u043e \u0441 \u043d\u0438\u043c\u0438 \u0447\u0442\u043e-\u0442\u043e \u043d\u0435 \u0442\u0430\u043a\n\u2800\n\u042d\u0442\u043e, \u0431\u043b\u0438\u043d, \u0436\u0438\u0437\u0430. \u041f\u043e\u0434\u043d\u0438\u043c\u0438\u0442\u0435 \u0440\u0443\u043a\u0438 \u0432 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f\u0445, \u0435\u0441\u043b\u0438 \u0432\u044b \u0437\u0430\u043c\u0435\u0447\u0430\u043b\u0438 \u0437\u0430 \u0441\u043e\u0431\u043e\u0439 \u0442\u0430\u043a\u0443\u044e \u0440\u0435\u0430\u043a\u0446\u0438\u044e.\n\u2800\n\u2800\n\u041c\u0435\u0434\u0438\u0439\u043d\u044b\u0439 \u043e\u0431\u0440\u0430\u0437 \u00ab\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0439 \u0432\u043d\u0435\u0448\u043d\u043e\u0441\u0442\u0438\u00bb \u043d\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0444\u043e\u0440\u043c\u0443\u043b\u043e\u0439 \u00ab\u043f\u043e\u043b\u043d\u0430\u044f \u2014 \u0445\u0443\u0434\u0430\u044f\u00bb, \u0433\u0434\u0435 \u0447\u0435\u043c \u043d\u0438\u0436\u0435 \u0432\u0435\u0441 \u2014 \u0442\u0435\u043c \u0442\u044b \u0442\u0438\u043f\u0430 \u043b\u0443\u0447\u0448\u0435. \u0414\u043e\u0445\u043e\u0434\u0438\u0442 \u0434\u043e \u0442\u043e\u0433\u043e, \u0447\u0442\u043e \u043d\u0430\u043c \u043d\u0435 \u043d\u0440\u0430\u0432\u044f\u0442\u0441\u044f \u0432\u0435\u0441\u043d\u0443\u0448\u043a\u0438, \u0444\u043e\u0440\u043c\u0430 \u0447\u0435\u043b\u044e\u0441\u0442\u0438, \u043a\u043e\u043b\u0435\u043d\u043e\u043a, \u043c\u043e\u0447\u0435\u043a \u0443\u0448\u0435\u0439, \u0449\u0435\u043a, \u0433\u0443\u0431, \u0434\u043b\u0438\u043d\u0430 \u0440\u0435\u0441\u043d\u0438\u0446, \u0432\u0438\u0434 \u043d\u043e\u0433\u0442\u0435\u0439\u2026 \u043c\u043d\u0435 \u0441\u0442\u0440\u0430\u0448\u043d\u043e \u043f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u044f\u0442\u044c \u0432\u0441\u0435 \u044d\u0442\u0438 \u043c\u0435\u043b\u043e\u0447\u0438, \u043d\u043e \u044d\u0442\u043e \u043f\u0440\u0430\u0432\u0434\u0430. \u041c\u044b \u043a\u043e\u0440\u0438\u043c \u0441\u0435\u0431\u044f \u0437\u0430 \u043b\u0438\u0448\u043d\u0438\u0435 \u0438\u043b\u0438 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u044e\u0449\u0438\u0435 \u043c\u0438\u043b\u043b\u0438\u043c\u0435\u0442\u0440\u044b \u0441\u043a\u0443\u043b, \u0437\u0430 \u0440\u0430\u0437\u0440\u0435\u0437 \u0433\u043b\u0430\u0437, \u0448\u0438\u0440\u0438\u043d\u0443 \u043f\u043b\u0435\u0447.\n\u2800\n\u0418 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0439 \u0432\u043d\u0435\u0448\u043d\u043e\u0441\u0442\u0438 \u043d\u0430\u0441 \u0443\u0447\u0430\u0442. \u0412 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u0438\u043e\u043d\u043d\u043e\u0439 \u0440\u0435\u043a\u043b\u0430\u043c\u0435 \u0436\u0435\u043d\u0449\u0438\u043d\u0430 \u0432\u0441\u0435\u0433\u0434\u0430 \u0434\u043e\u043c\u043e\u0445\u043e\u0437\u044f\u0439\u043a\u0430 \u0438 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0431\u043e\u0441\u0441, \u0438 \u0434\u0430\u0436\u0435 \u0435\u0441\u043b\u0438 \u043e\u043d\u0430 \u0432\u044b\u0440\u0432\u0430\u043b\u0430\u0441\u044c \u0437\u0430 \u043f\u0440\u0435\u0434\u0435\u043b\u044b \u044d\u0442\u043e\u0439 \u0440\u043e\u043b\u0438 \u2014 \u043e\u043d\u0430 \u0432\u0441\u0435\u0433\u0434\u0430 \u0441\u0442\u0440\u043e\u0439\u043d\u0430\u044f, \u0432\u044b\u0441\u043e\u043a\u0430\u044f, \u0432\u0441\u0435\u0433\u0434\u0430 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u043a\u0430.\n\u2800\n\u041f\u043e\u044d\u0442\u043e\u043c\u0443 \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0432\u0430\u043c \u0437\u0430 \u0442\u043e, \u0447\u0442\u043e \u043a\u043e\u0433\u0434\u0430 \u044f \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u0432\u0430\u043c \u043f\u0440\u043e #\u041f\u043e\u043a\u0430\u0436\u0438\u0442\u0435\u041d\u0430\u0441 (#ShowUs), \u0432\u044b \u0432\u0437\u044f\u043b\u0438 \u0438 \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u043b\u0438 \u0444\u043b\u044d\u0448\u043c\u043e\u0431 \u0432 \u0441\u0442\u043e\u0440\u0438\u0437. \u0418 \u0441\u0442\u0430\u043b\u0438 \u0432\u044b\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0442\u044c \u0441\u0432\u043e\u0438 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438.\n\u2800\n\u0418\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u00ab\u041f\u043e\u043a\u0430\u0436\u0438\u0442\u0435 \u043d\u0430\u0441\u00bb \u2014 \u044d\u0442\u043e \u043f\u0440\u043e\u0435\u043a\u0442 @Dove \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u0441 @gettyimages \u0438 @girlgaze. \u0411\u0440\u0435\u043d\u0434\u044b \u043d\u0430\u043d\u044f\u043b\u0438 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u043e\u0432 \u0432 39 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u043c\u0438\u0440\u0430, \u0441\u0434\u0435\u043b\u0430\u043b\u0438 5000 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0439 \u0440\u0430\u0437\u043d\u044b\u0445 \u0436\u0435\u043d\u0449\u0438\u043d \u0438 \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u0438\u043b\u0438 \u044d\u0442\u043e \u0432 \u0431\u0430\u0437\u0443 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439 \u0434\u043b\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u0421\u041c\u0418 \u0438 \u0440\u0435\u043a\u043b\u0430\u043c\u0435.\n\u2800\n\u0422\u043e \u0435\u0441\u0442\u044c \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \u0432 \u0444\u043e\u0442\u043e\u0431\u0430\u043d\u043a\u0435 \u00ab\u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0449\u0430\u044f \u0436\u0435\u043d\u0449\u0438\u043d\u0430\u00bb \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u044f\u0432\u044f\u0442\u0441\u044f \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0435 \u0431\u043b\u043e\u043d\u0434\u0438\u043d\u043a\u0438 \u0432 \u043e\u0447\u043a\u0430\u0445 \u0438 \u0441\u0435\u0440\u044b\u0445 \u043e\u0444\u0438\u0441\u043d\u044b\u0445 \u043a\u043e\u0441\u0442\u044e\u043c\u0430\u0445.\n\u2800\n\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0430\u043c \u0431\u044b\u043b\u043e \u0437\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043e \u0440\u0435\u0442\u0443\u0448\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043a\u043e\u0436\u0443 \u0438 \u0444\u0438\u0433\u0443\u0440\u0443 \u043c\u043e\u0434\u0435\u043b\u0435\u0439\u0439. \u0416\u0435\u043d\u0449\u0438\u043d\u044b \u043d\u0430 \u0444\u043e\u0442\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b \u0438 \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b. \u041a\u0430\u043a \u0432 \u0436\u0438\u0437\u043d\u0438.\n\u2800\n\u0422\u0430\u043a\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u044b \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0437\u043d\u0430\u0447\u0438\u043c\u044b. \u041c\u044b \u043f\u0440\u0438\u0432\u044b\u043a\u043b\u0438 \u0432\u0438\u0434\u0435\u0442\u044c \u0432 \u0440\u0435\u043a\u043b\u0430\u043c\u0430\u0445 \u0438 \u0441\u0442\u0430\u0442\u044c\u044f\u0445 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u044b\u0439 \u0442\u0438\u043f \u0436\u0435\u043d\u0441\u043a\u043e\u0439 \u0432\u043d\u0435\u0448\u043d\u043e\u0441\u0442\u0438, \u043d\u043e \u043a\u0442\u043e \u043d\u0430\u043c \u043c\u0435\u0448\u0430\u0435\u0442 \u043e\u0442\u0432\u044b\u043a\u043d\u0443\u0442\u044c \u043e\u0431\u0440\u0430\u0442\u043d\u043e? \u0418 \u0445\u043e\u0442\u044f \u0431\u044b \u043f\u043e\u043f\u044b\u0442\u0430\u0442\u044c\u0441\u044f \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u044c\u0441\u044f \u043a \u0441\u0435\u0431\u0435 \u043a\u0430\u043a \u043a \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0443, \u0430 \u043d\u0435 \u043a\u0443\u0441\u043e\u0447\u043a\u0443 \u043f\u0430\u0437\u0437\u043b\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0443\u043f\u043e\u0440\u043d\u043e \u043d\u0435 \u0432\u0441\u0442\u0430\u0435\u0442 \u043d\u0430 \u043c\u0435\u0441\u0442\u043e, \u0434\u043b\u044f \u043d\u0435\u0433\u043e \u0432\u043e\u0432\u0441\u0435 \u043d\u0435 \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u043e\u0435?\n\u2800\n\u041c\u044b \u043a\u0430\u043a \u0446\u0432\u0435\u0442\u044b \u2014 \u0440\u0430\u0437\u043d\u043e\u0433\u043e \u0446\u0432\u0435\u0442\u0430, \u0444\u043e\u0440\u043c\u044b, \u0440\u0430\u0437\u043c\u0435\u0440\u0430, \u0441 \u0440\u0430\u0437\u043d\u044b\u043c\u0438 \u043b\u0435\u043f\u0435\u0441\u0442\u043a\u0430\u043c\u0438. \u041c\u044b \u043c\u043e\u0436\u0435\u043c \u0431\u044b\u0442\u044c \u0430\u043a\u043a\u0443\u0440\u0430\u0442\u043d\u044b\u043c\u0438 \u0438\u043b\u0438 \u0440\u0430\u0441\u0442\u0440\u0435\u043f\u0430\u043d\u043d\u044b\u043c\u0438, \u044f\u0440\u043a\u0438\u043c\u0438 \u0438 \u0431\u043b\u0435\u0434\u043d\u044b\u043c\u0438, \u043d\u043e \u043c\u044b \u043d\u0435 \u043c\u043e\u0436\u0435\u043c \u0441\u0447\u0438\u0442\u0430\u0442\u044c \u00ab\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u043c\u00bb \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0434\u0438\u043d \u0432\u0438\u0434 \u0446\u0432\u0435\u0442\u043e\u0432.\n\u2800\n\u041c\u044b \u043d\u0435 \u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0435 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0438\n\u041c\u044b \u043b\u044e\u0434\u0438\n\u2800\n\u041c\u044b \u0443\u0436\u0435 \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0445\u043e\u0440\u043e\u0448\u0438\n\u2800"
+                    }
+                  }]
+                },
+                "shortcode": "Bvv8NV2l6JO",
+                "edge_media_to_comment": {
+                  "count": 1306
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1554199331,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/433cbdb592e2d25ace2d59717f5d7af9/5D2B0B40/t51.2885-15/e35/54800781_1145735038927040_3137344225605396696_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 121275
+                },
+                "edge_media_preview_like": {
+                  "count": 121275
+                },
+                "location": {
+                  "id": "213385402",
+                  "has_public_page": true,
+                  "name": "London, United Kingdom",
+                  "slug": "london-united-kingdom"
+                },
+                "gating_info": null,
+                "media_preview": "ACEqIx9mcEZ8t+D6K3+DdPY8Voq21/rz+X/1sVRf5nWBuQx59SPT/wCv9KSORhciEnOzjPqOv54xn3paDNMvzgdev51A0oTLMQAOP61VSdvN3n7pOCPbP17dajDgy7ZDlS2T0xkZ2/hn+XpRZBqRfbZP7v6iitra1FFkGphpNucP/EOh9apAlH3A4OTz+NWlTHJ61U2lWyOxqUUzTLgp5nG0k455P4en8utQoHlzjbkHpn+Xr0qQMpAwAMe3Sg4J9D7U7isV/tTf3v50VJ5Y/wAiilcLBioiBtz7VJUKdB9f60hk6oF4HNLTRTqBhRRRQB//2Q==",
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/c9a4442f5edc50516179aa9c8c8d744c/5D3570D8/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/54800781_1145735038927040_3137344225605396696_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/a0c8315a9b56d6f0c653498321a024f4/5D49054F/t51.2885-15/e35/c0.135.1080.1080/s150x150/54800781_1145735038927040_3137344225605396696_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/40dcb9a4bd81265f3097328deb8ece6a/5D492C49/t51.2885-15/e35/c0.135.1080.1080/s240x240/54800781_1145735038927040_3137344225605396696_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/f57e9443232c321a682506c8611687a5/5D3FB037/t51.2885-15/e35/c0.135.1080.1080/s320x320/54800781_1145735038927040_3137344225605396696_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/301263128db6fc1ad1d8b33f680508e4/5D468970/t51.2885-15/e35/c0.135.1080.1080/s480x480/54800781_1145735038927040_3137344225605396696_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/c9a4442f5edc50516179aa9c8c8d744c/5D3570D8/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/54800781_1145735038927040_3137344225605396696_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "Image may contain: 1 person, standing, sky and outdoor"
+              }
+            }, {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2007597341801918515",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u0421\u043a\u0430\u0437\u0430\u0442\u044c, \u0447\u0442\u043e \u043c\u044b \u043e\u0442\u043d\u043e\u0441\u0438\u043c\u0441\u044f \u043a \u0431\u043e\u0433\u0430\u0442\u044b\u043c \u0438\u043b\u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c \u043b\u044e\u0434\u044f\u043c \u0442\u0430\u043a \u0436\u0435, \u043a\u0430\u043a \u0438 \u043a \u0434\u0440\u0443\u0433\u0438\u043c, \u0437\u043d\u0430\u0447\u0438\u0442 \u0441\u043e\u0432\u0440\u0430\u0442\u044c.\n\u0420\u0430\u0437\u043d\u0438\u0446\u0430 \u0435\u0441\u0442\u044c.\n\u2800\n\u0422\u0443\u0442 \u043c\u043e\u0436\u043d\u043e \u043f\u043e\u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043e \u0442\u043e\u043c, \u043a\u0430\u043a \u043c\u044b \u043f\u043e-\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u043c\u0443  \u0431\u043e\u0438\u043c\u0441\u044f \u0431\u044b\u0442\u044c \u00ab\u0438\u0437\u0433\u043d\u0430\u043d\u043d\u044b\u043c\u0438 \u0438\u0437 \u0441\u0442\u0430\u0438\u00bb \u0438 \u043a\u0430\u043a \u0434\u043b\u044f \u043d\u0430\u0441 \u0432\u0430\u0436\u043d\u043e \u043e\u0434\u043e\u0431\u0440\u0435\u043d\u0438\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u0438 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0432 \u043d\u0435\u043c, \u0438 \u0447\u0442\u043e \u0432\u0441\u0451 \u044d\u0442\u043e, \u043a\u0430\u043a \u0431\u044b \u043c\u043d\u0435 \u043d\u0435 \u043d\u0440\u0430\u0432\u0438\u043b\u0430\u0441\u044c \u044d\u0442\u0430 \u0444\u0440\u0430\u0437\u0430, \u043f\u043e \u043d\u0430\u0448\u0435\u0439 \u043f\u0440\u0438\u0440\u043e\u0434\u0435\n\u2800\n\u041c\u044b \u0433\u043e\u0432\u043e\u0440\u0438\u043b\u0438 \u043e\u0431 \u044d\u0442\u043e\u043c \u0441 \u043e\u0434\u043d\u043e\u0433\u0440\u0443\u043f\u043f\u043d\u0438\u043a\u0430\u043c\u0438 \u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0435: \u0437\u0430\u0447\u0435\u043c \u043c\u044b \u0434\u0435\u043b\u0430\u0435\u043c \u0441\u0435\u043b\u0444\u0438 \u0441\u043e \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0441\u0442\u044f\u043c\u0438? \u042d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0435\u0442 \u043d\u0430\u0441 \u0441\u0430\u043c\u0438\u0445 \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u044b\u043c\u0438?\n\u041f\u043e\u0447\u0435\u043c\u0443 \u0431\u043e\u0433\u0430\u0442\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0441\u0440\u0430\u0437\u0443 \u043f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0435\u0442 \u043d\u0430\u0448\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435? \u041f\u0440\u0430\u0432\u0434\u0430 \u043b\u0438 \u043d\u0430\u043c \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b \u0432\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043b\u044e\u0434\u0438, \u0438\u043b\u0438 \u0436\u0435 \u043d\u0430\u0441 \u0446\u0435\u043f\u043b\u044f\u044e\u0442 \u0438\u0445 \u0434\u0435\u043d\u044c\u0433\u0438 \u0438 \u0441\u043b\u0430\u0432\u0430? \u041f\u043e\u0447\u0435\u043c\u0443?\n\u2800\n\u0414\u0430, \u043b\u044e\u0431\u043e\u0439 \u0441\u043a\u043e\u043b\u044c\u043a\u043e-\u043b\u0438\u0431\u043e \u0432\u044b\u0434\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u043d\u0435 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0442\u0430\u043a\u0438\u043c \u043f\u0440\u043e\u0441\u0442\u043e \u0442\u0430\u043a, \u044d\u0442\u043e \u0435\u0433\u043e \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f, \u0438 \u044d\u0442\u043e \u0437\u0430\u043a\u043e\u043d\u043e\u043c\u0435\u0440\u043d\u043e \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u0442 \u0438\u043d\u0442\u0435\u0440\u0435\u0441, \u043d\u043e.\n\u2800\n...\u0414\u043b\u044f \u043c\u0435\u043d\u044f \u044d\u0442\u043e \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u043d\u043d\u0430\u044f \u0442\u0435\u043c\u0430. \u042f \u043d\u0435 \u043f\u043e\u043d\u0438\u043c\u0430\u043b\u0430 (\u0438 \u0432\u0441\u0435 \u0435\u0449\u0435 \u043d\u0435 \u0441\u043e\u0432\u0441\u0435\u043c \u043f\u043e\u043d\u0438\u043c\u0430\u044e),\u0447\u0442\u043e \u044f \u0438\u0437 \u0441\u0435\u0431\u044f \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e \u0432 \u043e\u0442\u0440\u044b\u0432\u0435 \u043e\u0442 \u043c\u043e\u0438\u0445 \u0437\u0430\u043d\u044f\u0442\u0438\u0439\n\u2800\n\u042f \u0434\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0433\u043e \u043d\u0435 \u0433\u043e\u0432\u043e\u0440\u044e \u0432 \u043d\u043e\u0432\u044b\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u0445 \u043e \u0442\u043e\u043c, \u0447\u0442\u043e \u044f \u0431\u043b\u043e\u0433\u0435\u0440.\n\u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043d\u0435 \u0445\u043e\u0447\u0443 \u0434\u0443\u043c\u0430\u0442\u044c \u043e \u0442\u043e\u043c, \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u0430 \u043b\u0438 \u044f \u0441\u0430\u043c\u0430 \u043f\u043e \u0441\u0435\u0431\u0435 \u0438\u043b\u0438 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u0430 \u043c\u043e\u044f \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044c\n\u2800\n\u041d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043c\u0435\u0441\u044f\u0446\u0435\u0432 \u043d\u0430\u0437\u0430\u0434 \u044f \u043f\u043e\u043d\u044f\u043b\u0430, \u0447\u0442\u043e \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u0446\u0438\u0440\u0443\u044e \u0441\u0435\u0431\u044f \u0441 \u0442\u0435\u043c, \u0447\u0442\u043e \u044f \u0434\u0435\u043b\u0430\u044e\n\u042f \u044d\u0442\u043e \u043c\u043e\u0439 \u0431\u043b\u043e\u0433\n\u042f \u044d\u0442\u043e \u043c\u043e\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u044b\n\u042f \u044d\u0442\u043e \u043c\u043e\u0438 \u0442\u0435\u043a\u0441\u0442\u044b\n\u2800\n\u0412\u044b\u0447\u0435\u0440\u043a\u043d\u0435\u043c \u0432\u0441\u0435 \u044d\u0442\u0438 \u043f\u0443\u043d\u043a\u0442\u044b \u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u043c \u0432\u043e\u043f\u0440\u043e\u0441:\n\u2800\n\u043a\u0442\u043e \u0442\u0430\u043a\u0430\u044f \u0421\u0430\u0448\u0430 \u041c\u0438\u0442\u0440\u043e\u0448\u0438\u043d\u0430?\n\u2800\n\u0423\u043f\u0441.\n\u2800\n\u041f\u0440\u0438 \u043f\u043e\u043f\u044b\u0442\u043a\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0441\u0435\u0431\u044f \u0431\u0435\u0437 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u0438 \u0432 \u043c\u043e\u0435\u0439 \u0433\u043e\u043b\u043e\u0432\u0435 \u0437\u0438\u044f\u043b\u0430 \u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u0430\u044f \u043f\u0443\u0441\u0442\u043e\u0442\u0430, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u044d\u0442\u043e \u043a\u0430\u043a \u0434\u0435\u043b\u0438\u0442\u044c \u043d\u0430 \u043d\u043e\u043b\u044c. \u041d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e. \u0412 \u0441\u043c\u044b\u0441\u043b\u0435 \u043d\u0435\u0442 \u0431\u043b\u043e\u0433\u0430? \u043a\u0442\u043e \u044f \u0442\u043e\u0433\u0434\u0430 \u0442\u0430\u043a\u0430\u044f?\n\u041a\u0442\u043e-\u044f-\u0442\u043e\u0433\u0434\u0430-\u0442\u0430\u043a\u0430\u044f\n\u2800\n\u0443 \u043c\u0435\u043d\u044f \u0434\u0430\u0436\u0435 \u0441\u0435\u0439\u0447\u0430\u0441 \u043f\u043e\u0434\u0441\u0442\u0443\u043f\u0430\u044e\u0442 \u0441\u043b\u0435\u0437\u044b, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u044f, \u043d\u0430\u0432\u0435\u0440\u043d\u043e\u0435, \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u0432 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u0434\u0443\u0448\u0438 \u043d\u0435 \u0432\u0435\u0440\u044e, \u0447\u0442\u043e \u044f \u043c\u043e\u0433\u0443 \u0431\u044b\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u043e \u0442\u0430\u043a \u0438 \u043b\u044e\u0431\u0438\u043c\u0430 \u043d\u0438 \u0437\u0430 \u0447\u0442\u043e\n\u2800\n\u0414\u0430\u0436\u0435 \u043d\u0435 \u0442\u043e, \u0447\u0442\u043e \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u0430\u2026\n\u0415\u0441\u043b\u0438 \u044f \u0443\u0441\u043f\u0435\u0448\u043d\u0430, \u044f \u0435\u0441\u0442\u044c. \u0415\u0441\u043b\u0438 \u043d\u0435\u0442 \u2014 \u043c\u0435\u043d\u044f \u043d\u0435\u0442.\n\u2800\n\u0421\u0442\u0440\u0430\u0448\u043d\u043e \u044d\u0442\u043e \u043f\u0438\u0441\u0430\u0442\u044c \u0438 \u0441\u0442\u0440\u0430\u0448\u043d\u043e \u043f\u0440\u0438\u0437\u043d\u0430\u0442\u044c. \u041d\u043e \u043a\u0430\u043a \u0442\u043e\u043b\u044c\u043a\u043e \u044f \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u043b\u0430 \u043f\u0440\u044f\u0442\u0430\u0442\u044c\u0441\u044f \u0441\u0430\u043c\u0430 \u043e\u0442 \u0441\u0435\u0431\u044f, \u043e\u0442\u0432\u043b\u0435\u043a\u0430\u044f\u0441\u044c \u043d\u0430 \u0433\u043e\u043d\u043a\u0443 \u0437\u0430 \u0443\u0441\u043f\u0435\u0445\u043e\u043c, \u043c\u043d\u0435 \u0441\u0442\u0430\u043b\u043e \u043b\u0443\u0447\u0448\u0435\n\u0418 \u044d\u0442\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430\u0447\u0430\u043b\u043e \u043f\u0443\u0442\u0438"
+                    }
+                  }]
+                },
+                "shortcode": "BvcayVKHzAz",
+                "edge_media_to_comment": {
+                  "count": 1863
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1553544274,
+                "dimensions": {
+                  "height": 1349,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/6e3ef962feeb6012344a3791f208d398/5D4B39CE/t51.2885-15/e35/54446574_128937951515126_4732919875273329412_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 106530
+                },
+                "edge_media_preview_like": {
+                  "count": 106530
+                },
+                "location": null,
+                "gating_info": null,
+                "media_preview": "ACEqbtIpNlLudE3bS/8AtAEKPfPVvyA96hNzkgEcd8Vo5JCUWx+3NGypYniUbWYZz3/Sphtb7pBpp3QmrMp7KKueXRVEE62yK24Zx02k5X8jmorqGPCnaAc8Y47c1aYhBljgflVCSdJ3CxnIQEk+5Ix/KsnsbonjeONCWUcdOBk56D65qCRUuAHAMbcg468fT+dMZS/3ccHPXuO3FWEGBiovpYq2pU+yD1airtFSBALdc5bLn1bn9OlPSEK7uBjIWpzTaYDNvO7vUhpDTqQxuKKWigR//9k=",
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/f2174065a6eb00189232f3009b73ccd2/5D3A2E65/t51.2885-15/sh0.08/e35/c0.134.1080.1080/s640x640/54446574_128937951515126_4732919875273329412_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/702bc83ac2b889aa45765190941602b2/5D2F9D7E/t51.2885-15/e35/c0.134.1080.1080/s150x150/54446574_128937951515126_4732919875273329412_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/f4ea3be45405132d30e7f1c2a9c1676d/5D2E9D34/t51.2885-15/e35/c0.134.1080.1080/s240x240/54446574_128937951515126_4732919875273329412_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/d98e9154da1ffc234ff333df9e5a4105/5D2E798E/t51.2885-15/e35/c0.134.1080.1080/s320x320/54446574_128937951515126_4732919875273329412_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/7a31104e906f76611bf2367b6def6cae/5D2E2BD4/t51.2885-15/e35/c0.134.1080.1080/s480x480/54446574_128937951515126_4732919875273329412_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/f2174065a6eb00189232f3009b73ccd2/5D3A2E65/t51.2885-15/sh0.08/e35/c0.134.1080.1080/s640x640/54446574_128937951515126_4732919875273329412_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "Image may contain: 1 person, standing, shoes and outdoor"
+              }
+            }, {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2001908968591862998",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u0417\u043d\u0430\u0435\u0442\u0435, \u0435\u0441\u043b\u0438 \u0432\u044b \u0440\u0435\u0448\u0438\u043b\u0438 \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c, \u0442\u043e \u0443 \u0432\u0430\u0441 \u0434\u0432\u0430 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430: \u043b\u0438\u0431\u043e \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0441\u044f, \u043b\u0438\u0431\u043e \u043d\u0435\u0442\n\u2800\n\u0410 \u0435\u0441\u043b\u0438 \u0432\u044b \u0440\u0435\u0448\u0438\u043b\u0438 \u043d\u0435 \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c, \u0442\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0434\u0438\u043d\n\u2800\n\u041f\u043e\u043d\u0438\u043c\u0430\u0435\u0442\u0435, \u043e \u0447\u0435\u043c \u044f?"
+                    }
+                  }]
+                },
+                "shortcode": "BvINZmxlizW",
+                "edge_media_to_comment": {
+                  "count": 1091
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1552866167,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/ac07aa9340ce32268645ff7f13d03776/5D2D0689/t51.2885-15/e35/52925196_333871397472696_1781893292955693833_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 122973
+                },
+                "edge_media_preview_like": {
+                  "count": 124916
+                },
+                "location": {
+                  "id": "212999109",
+                  "has_public_page": true,
+                  "name": "Los Angeles, California",
+                  "slug": "los-angeles-california"
+                },
+                "gating_info": null,
+                "media_preview": "ACEqooT35plyuCCO4pyZAGOSCfw9M/lT5pPMZcE44OO4p82lvQHGzUu9yl2pyj5SanlCEkLk555HP5VX6cVIxtFFFAGvZyZYKOQByVGOvqe/PSnyOzghuCpHJHv9M1Hp88ana3DE8Z6H0x6H+dTXLbFOxgwyBjOcc+xz9aACIF2zubGDng/Tqcc1nXa/NuGdrcg+vAB9uv8AOrx27fnfGeDgfpkDP681TuiQFTsMnHoO3/16VyrdSlRRRTJLUVqZF3E49sZ4rV+xwrFuAVgRkcHcfTnP9KZHwRWg/C0xGTHGzIUlO7HHTp9D3qCeMQDbkljwc/Tg/wCeK17cAuB9ay745c5pWRTk3uZ+1ff9KKSimSf/2Q==",
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/1a0c35f3b26cddb8f46f902e26013047/5D2DEECA/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/52925196_333871397472696_1781893292955693833_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/8889a49bce99853fd38667e900c7a010/5D4A60D1/t51.2885-15/e35/c0.135.1080.1080/s150x150/52925196_333871397472696_1781893292955693833_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/64987c54477b93369d342fa74a3bd3b6/5D2B999B/t51.2885-15/e35/c0.135.1080.1080/s240x240/52925196_333871397472696_1781893292955693833_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/376192b91846f296735781b4c39f0d1e/5D420E21/t51.2885-15/e35/c0.135.1080.1080/s320x320/52925196_333871397472696_1781893292955693833_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/9d37de5cced9a095fa82dc39b86a28fd/5D34A47B/t51.2885-15/e35/c0.135.1080.1080/s480x480/52925196_333871397472696_1781893292955693833_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/1a0c35f3b26cddb8f46f902e26013047/5D2DEECA/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/52925196_333871397472696_1781893292955693833_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "Image may contain: one or more people"
+              }
+            }, {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2001370310436486551",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u041f\u043e\u0447\u0442\u0438 \u043f\u0440\u043e\u0448\u043b\u0438 \u0442\u0440\u0438 \u043d\u0435\u0434\u0435\u043b\u0438 \u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0435 \u2014 \u043c\u043e\u0439 \u0432\u044b\u0445\u043e\u0434 \u0438\u0437 \u0437\u043e\u043d\u044b \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u0430 \u0438 \u0441\u0430\u043c\u043e\u0435 \u0434\u043b\u0438\u043d\u043d\u043e\u0435 \u0432 \u0436\u0438\u0437\u043d\u0438 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0435\n\u2800\n\u0417\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u044e \u0438\u0442\u043e\u0433\u0438. \u0421\u043a\u043e\u0440\u0435\u0435 \u0434\u043b\u044f \u0441\u0435\u0431\u044f.\n\u2800\n\u2800\n\u041d\u0430 \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u0445 \u044f \u0441\u0430\u0434\u0438\u043b\u0430\u0441\u044c \u0432 \u043c\u0430\u0448\u0438\u043d\u0443 \u0438 \u0443\u0435\u0437\u0436\u0430\u043b\u0430. \u0443\u0441\u043f\u0435\u043b\u0430 \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0434\u043e \u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e \u0438 \u0421\u0430\u043d-\u0414\u0438\u0435\u0433\u043e\n\u2800\n\u0414\u043e \u0442\u043e\u0448\u043d\u043e\u0442\u044b \u043d\u0430\u043a\u0430\u0442\u0430\u043b\u0430\u0441\u044c \u043d\u0430 \u0433\u043e\u0440\u043a\u0430\u0445 \u0432 \u043f\u0430\u0440\u043a\u0435 Six Flags \u0438 \u043f\u043e\u043b\u0435\u0442\u0430\u043b\u0430 \u043d\u0430 \u043c\u0435\u0442\u043b\u0435 \u0441 \u0413\u0430\u0440\u0440\u0438 \u041f\u043e\u0442\u0442\u0435\u0440\u043e\u043c \u0432 Universal\n\u2800\n\u0412\u043e\u0434\u0438\u043b\u0430 \u0434\u0432\u0430 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 muscle-\u043a\u0430\u0440\u0430\n\u2800\n\u0415\u0445\u0430\u043b\u0430 \u0432\u0434\u043e\u043b\u044c \u043e\u043a\u0435\u0430\u043d\u0430 \u0432 \u043c\u0430\u0448\u0438\u043d\u0435 \u0431\u0435\u0437 \u043a\u0440\u044b\u0448\u0438 \u0438 \u0432\u0435\u0442\u0435\u0440 \u0440\u0430\u0437\u0432\u0435\u0432\u0430\u043b \u043c\u043e\u0438 \u0432\u043e\u043b\u043e\u0441\u044b\n\u2800\n\u041f\u043e\u0434\u043d\u044f\u043b\u0430\u0441\u044c \u043f\u0435\u0448\u043a\u043e\u043c \u043a \u0437\u043d\u0430\u043a\u0443 Hollywood\n\u2800\n\u0412\u0441\u0442\u0440\u0435\u0442\u0438\u043b\u0430 \u0440\u0430\u0441\u0441\u0432\u0435\u0442 \u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043b\u0430 \u0437\u0430\u043a\u0430\u0442 \u0443 \u043e\u043a\u0435\u0430\u043d\u0430\n\u2800\n\u0423\u0432\u0438\u0434\u0435\u043b\u0430 \u043c\u043e\u0449\u043d\u044b\u0435 \u0441\u043c\u044b\u0441\u043b\u044b \u0432 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u043c \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\n\u2800\n\u0413\u0443\u043b\u044f\u043b\u0430, \u0435\u043b\u0430, \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u0430\u043b\u0430\u0441\u044c, \u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0430, \u0447\u0438\u0442\u0430\u043b\u0430, \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u043b\u0430 \u043a\u0430\u043d\u0430\u043b \u043d\u0430 YouTube, \u0445\u043e\u0434\u0438\u043b\u0430 \u0432 \u043a\u0438\u043d\u043e\n\u2800\n\u041d\u0430\u0447\u0430\u043b\u0430 \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0442\u044c \u0441\u0442\u043e\u0440\u0438\u0437 \u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c\n\u2800\n\u041f\u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u043b\u0430\u0441\u044c \u0438 \u0434\u0430\u0436\u0435 \u043f\u043e\u0434\u0440\u0443\u0436\u0438\u043b\u0430\u0441\u044c \u0441 \u043d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u044b\u043c\u0438 \u043b\u044e\u0434\u044c\u043c\u0438\n\u0421 \u0440\u0430\u0437\u043d\u043e\u0439 \u0436\u0438\u0437\u043d\u044c\u044e, \u043e\u043f\u044b\u0442\u043e\u043c, \u043c\u0438\u0440\u043e\u0432\u043e\u0437\u0437\u0440\u0435\u043d\u0438\u0435\u043c\n\u2800\n(\u042f \u043d\u0430\u043f\u0438\u0448\u0443 \u043e\u0431 \u044d\u0442\u043e\u043c \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u0441\u0442, \u0432 \u044d\u0442\u043e\u043c \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0438 \u044f \u0432\u043e\u0438\u0441\u0442\u0438\u043d\u0443 \u043e\u0441\u043e\u0437\u043d\u0430\u043b\u0430 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u0438 \u0438 \u0440\u043e\u043b\u044c \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u044f \u0432 \u0436\u0438\u0437\u043d\u0438)\n\u2800\n\u2800\n...\u041d\u0443 \u0438 \u0433\u043b\u0430\u0432\u043d\u0430\u044f \u0446\u0435\u043b\u044c \u043f\u043e\u0435\u0437\u0434\u043a\u0438: \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0430 \u044f\u0437\u044b\u043a\u043e\u0432\u044b\u0435 \u043a\u0443\u0440\u0441\u044b \u0438 \u043a\u0430\u0436\u0434\u044b\u0439 \u0434\u0435\u043d\u044c \u043e\u0431\u0449\u0430\u043b\u0430\u0441\u044c \u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c.\n\u2800\n\u041c\u043d\u0435 \u0441\u0442\u0430\u043b\u043e \u043b\u0435\u0433\u0447\u0435 \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u0438 \u044f \u0443\u043b\u0435\u0442\u0430\u044e \u0438\u0437 \u041b\u0410 \u0441 \u0432\u044b\u0441\u043e\u043a\u0438\u043c \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u043c\u043e\u0442\u0438\u0432\u0430\u0446\u0438\u0438 \u0438 \u043f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u0435\u043c, \u0417\u0410\u0427\u0415\u041c \u044f \u0443\u0447\u0443 \u044f\u0437\u044b\u043a.\n\u2800\n\u0412\u0441\u044f \u0437\u0443\u0431\u0440\u0451\u0436\u043a\u0430 \u0441\u043b\u043e\u0432, \u0443\u0440\u043e\u043a\u0438 \u043f\u043e \u0433\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0435 \u0438 \u0442\u0440\u0430\u0442\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u043d\u0430 \u0443\u0447\u0435\u0431\u0443 \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u043e\u0431\u0440\u0435\u0442\u0430\u044e\u0442 \u0441\u043c\u044b\u0441\u043b \u0432 \u043c\u043e\u043c\u0435\u043d\u0442, \u043a\u043e\u0433\u0434\u0430 \u0442\u044b \u043c\u043e\u0436\u0435\u0448\u044c \u043f\u043e\u043d\u0438\u043c\u0430\u0442\u044c \u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u0432 \u0447\u0443\u0436\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435.\n\u2800\n#\u043c\u0438\u0442\u0440\u043e\u0448\u0438\u043d\u0430_\u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0443\u0435\u0442"
+                    }
+                  }]
+                },
+                "shortcode": "BvGS7GRlH2X",
+                "edge_media_to_comment": {
+                  "count": 436
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1552801954,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/ea8cc319a558f9391189342d8b2ce256/5D331FDD/t51.2885-15/e35/53695711_385275288991991_3731631737586961471_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 93626
+                },
+                "edge_media_preview_like": {
+                  "count": 93626
+                },
+                "location": {
+                  "id": "212999109",
+                  "has_public_page": true,
+                  "name": "Los Angeles, California",
+                  "slug": "los-angeles-california"
+                },
+                "gating_info": null,
+                "media_preview": "ACEqtstQMtWLqQQLuxkk4AqgLg7tsgA68g5x7H3rW5nYRhUJqw4qEiqJI6KdiikBdmaS76AInYt1P+A+lVo7dlbn5dvdT973P9RWkxqFqlIpsgbioiKmYVEaskTbRS0UCHPfDI2j5T1J4Ix149hVncGG4dD0rGYnZn6D/wAerVhJKDPNRFltCNURqY1GasgjopaKAP/Z",
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/0c2e91736b01387b97743a2772eefae0/5D39A59E/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/53695711_385275288991991_3731631737586961471_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/70ee1f8b783a9d31680ed7b80802ee5d/5D2D5A85/t51.2885-15/e35/c0.135.1080.1080/s150x150/53695711_385275288991991_3731631737586961471_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/d1c0a568edc851b1d0f011b218dbed40/5D2CC6CF/t51.2885-15/e35/c0.135.1080.1080/s240x240/53695711_385275288991991_3731631737586961471_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/a86db58f44b5a6be2518447f4dc5209e/5D3AF775/t51.2885-15/e35/c0.135.1080.1080/s320x320/53695711_385275288991991_3731631737586961471_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/3fff4630537df763ba182d0275186e9b/5D34F72F/t51.2885-15/e35/c0.135.1080.1080/s480x480/53695711_385275288991991_3731631737586961471_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/0c2e91736b01387b97743a2772eefae0/5D39A59E/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/53695711_385275288991991_3731631737586961471_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "Image may contain: sky, tree, cloud and outdoor"
+              }
+            }, {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2001194588560534018",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u041e\u0434\u0438\u043d \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0439 \u0441\u043e\u0432\u0435\u0442 \u0434\u043b\u044f \u0442\u0435\u0445, \u043a\u0442\u043e \u0445\u043e\u0447\u0435\u0442 \u0432 \u0447\u0435\u043c-\u0442\u043e \u043f\u0440\u0435\u0443\u0441\u043f\u0435\u0442\u044c \u0438\u043b\u0438 \u043d\u0430\u0439\u0442\u0438 \u0441\u0432\u043e\u0451 \u043c\u0435\u0441\u0442\u043e.\n\u2800\u2800\n\u042f \u043d\u0435 \u043d\u0435 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433, \u043d\u0435 \u043a\u043e\u0443\u0447, \u043d\u0435 \u0431\u0438\u0437\u043d\u0435\u0441-\u0442\u0440\u0435\u043d\u0435\u0440. \u042f \u043d\u0435 \u0432\u0441\u0442\u0430\u044e \u0432 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u0430 \u0438 \u043d\u0435 \u0445\u043e\u0447\u0443 \u0434\u0430\u0432\u0430\u0442\u044c \u0432\u0430\u043c \u0443\u043a\u0430\u0437\u0430\u043d\u0438\u044f. \u041d\u043e \u044f \u0437\u043d\u0430\u044e, \u0447\u0442\u043e \u0441\u044b\u0433\u0440\u0430\u043b\u043e \u0441\u0430\u043c\u0443\u044e \u0431\u043e\u043b\u044c\u0448\u0443\u044e \u0440\u043e\u043b\u044c \u043b\u0438\u0447\u043d\u043e \u0432 \u043c\u043e\u0435\u0439 \u0436\u0438\u0437\u043d\u0438\n\u2800\n\u041e\u0434\u043d\u043e \u0441\u043b\u043e\u0432\u043e:\n\u2800\n\u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\n\u2800\u2800\n\u041f\u0440\u043e\u0441\u0442\u0430\u044f \u0432\u0435\u0449\u044c, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u044b\u0434\u0435\u043b\u044f\u0435\u0442 \u0432\u0430\u0441 \u0438 \u0434\u0435\u043b\u0430\u0435\u0442 \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u043e\u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0439.\n\u2800\u2800\n\u042f \u043f\u0440\u0438\u0448\u043b\u0430 \u043d\u0430 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0443 \u043d\u0430 \u041c\u043e\u0441\u043a\u0432\u0430 \u0424\u041c \u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0435\u0449\u0451 3-4 \u0434\u0435\u0432\u043e\u0447\u0435\u043a, \u0438 \u0435\u0441\u043b\u0438 \u0443 \u043d\u0430\u0441 \u0441\u043f\u0440\u0430\u0448\u0438\u0432\u0430\u043b\u0438, \u043a\u0442\u043e \u0445\u043e\u0447\u0435\u0442 \u043f\u043e\u0435\u0445\u0430\u0442\u044c \u0438 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0440\u0435\u043f\u043e\u0440\u0442\u0430\u0436, \u0442\u043e \u0432\u044b\u0437\u044b\u0432\u0430\u043b\u0430\u0441\u044c \u044f.\n\u2800\u2800\n\u042f \u043d\u0435 \u0431\u044b\u043b\u0430 \u0437\u0430\u0442\u044b\u0447\u043a\u043e\u0439 \u0432 \u043a\u0430\u0436\u0434\u043e\u0439 \u0431\u043e\u0447\u043a\u0435, \u043d\u043e \u0447\u0430\u0441\u0442\u043e \u0447\u0442\u043e-\u0442\u043e \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u043b\u0430 \u0438 \u043e\u0445\u043e\u0442\u043d\u043e \u0431\u0440\u0430\u043b\u0430\u0441\u044c \u0437\u0430 \u0437\u0430\u0434\u0430\u043d\u0438\u044f. \u0414\u0430\u0436\u0435 \u0435\u0441\u043b\u0438 \u043c\u043d\u0435 \u0431\u044b\u043b\u043e \u043b\u0435\u043d\u044c \u2014 \u0430 \u043c\u043d\u0435 \u0431\u044b\u043b\u043e!  \u0425\u043e\u0442\u044c \u044f \u0438 \u043e\u0431\u043e\u0436\u0430\u043b\u0430 \u0440\u0430\u0434\u0438\u043e, \u043d\u043e \u0440\u043e\u0431\u043e\u0442\u043e\u043c \u043d\u0435 \u0431\u044b\u043b\u0430, \u0438 \u043f\u043e\u0440\u043e\u0439 \u0432\u0441\u0435, \u0447\u0442\u043e \u0445\u043e\u0442\u0435\u043b\u0430 \u2014 \u044d\u0442\u043e \u043f\u0440\u0438\u0432\u044b\u0447\u043d\u043e \u0437\u0430\u043b\u0438\u043f\u043d\u0443\u0442\u044c \u0432\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435 \u0438\u043b\u0438 \u043f\u043e\u0438\u0433\u0440\u0430\u0442\u044c \u043d\u0430 \u043f\u043b\u0430\u043d\u0448\u0435\u0442\u0435.\n\u2800\u2800\n\u0418\u0442\u043e\u0433\u0438 \u0432\u044b \u0437\u043d\u0430\u0435\u0442\u0435: \u043f\u043e\u043f\u0430\u043b\u0430 \u0432 \u0448\u0442\u0430\u0442, \u0441\u0442\u0430\u043b\u0430 \u043f\u0440\u043e\u0434\u044e\u0441\u0435\u0440\u043e\u043c, \u043f\u043e\u0442\u043e\u043c \u0432\u0435\u0434\u0443\u0449\u0435\u0439, \u043d\u0430\u0447\u0430\u043b\u0430 \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043c\u0430\u0448\u0438\u043d\u044b, \u043f\u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u043b\u0430\u0441\u044c \u0441 \u041a\u043e\u0441\u0442\u0435\u0439, \u0434\u0430\u043b\u044c\u0448\u0435 \u0432\u0441\u0435 \u043a\u0430\u043a \u0432 \u0442\u0443\u043c\u0430\u043d\u0435, \u043e\u043f \u0438 \u0443 \u043c\u0435\u043d\u044f \u043c\u0438\u043b\u043b\u0438\u043e\u043d \u043f\u043e\u0434\u043f\u0438\u0441\u0447\u0438\u043a\u043e\u0432 \u0438 \u044f \u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0435 \u0435\u0434\u0443 \u043d\u0430 \u043a\u0430\u0431\u0440\u0438\u043e\u043b\u0435\u0442\u0435 \u0432\u0434\u043e\u043b\u044c \u043e\u043a\u0435\u0430\u043d\u0430\n\u2800\u2800\n\u042d\u0442\u043e \u0448\u0443\u0442\u043a\u0430, \u043d\u043e \u0432\u043e\u043e\u0431\u0449\u0435-\u0442\u043e \u0438 \u043f\u0440\u0430\u0432\u0434\u0430. \u042f \u0440\u0430\u0434\u0430 \u043a 25 \u0433\u043e\u0434\u0430\u043c \u0438\u043c\u0435\u0442\u044c \u0442\u043e, \u0447\u0442\u043e \u0438\u043c\u0435\u044e, \u0438 \u0440\u043e\u043b\u044c \u0432 \u044d\u0442\u043e\u043c \u0441\u044b\u0433\u0440\u0430\u043b\u0438 \u043e\u0447\u0435\u043d\u044c \u043f\u0440\u043e\u0441\u0442\u044b\u0435, \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0435 \u0448\u0430\u0436\u043a\u0438. \u041a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u0430\u0436\u0435 \u043d\u0435 \u0432\u0435\u043b\u0438 \u043d\u0438 \u043a \u043a\u0430\u043a\u043e\u0439 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0446\u0435\u043b\u0438.\n\u2800\u2800\n\u041f\u043e\u0434\u043d\u044f\u0442\u044c \u0440\u0443\u043a\u0443 \u043d\u0430 \u043f\u0430\u0440\u0435. \u041f\u043e\u0435\u0445\u0430\u0442\u044c \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0442\u044c \u0440\u0435\u043f\u043e\u0440\u0442\u0430\u0436. \u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u0442\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435 \u0438\u043b\u0438 \u0440\u0435\u0437\u044e\u043c\u0435.\n\u2800\u2800\n\u041f\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u043c\u043d\u0435, 90% \u043b\u044e\u0434\u0435\u0439 \u043d\u0435 \u043f\u0440\u043e\u044f\u0432\u043b\u044f\u044e\u0442  \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u0443, \u0430 \u0436\u0434\u0443\u0442, \u043a\u043e\u0433\u0434\u0430 \u043a\u0442\u043e-\u0442\u043e \u043f\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u0439 \u0437\u0430\u0441\u0442\u0430\u0432\u0438\u0442 \u0438\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c.\n\u2800\u2800\n\u042d\u0442\u0430 \u043c\u0435\u043b\u043e\u0447\u044c \u2014 \u043f\u0435\u0440\u0435\u0431\u043e\u0440\u043e\u0442\u044c \u0441\u0432\u043e\u044e \u043f\u0430\u0441\u0441\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438 \u0432\u0437\u044f\u0442\u044c\u0441\u044f \u0437\u0430 \u0447\u0442\u043e-\u0442\u043e \u043f\u043e \u0441\u0432\u043e\u0435\u0439 \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u0435 \u2014 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u0430 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0432\u044b\u0434\u0435\u043b\u0438\u0442\u044c \u0432\u0430\u0441 \u0441\u0440\u0435\u0434\u0438 \u0434\u0440\u0443\u0433\u0438\u0445, \u043d\u043e \u0438 \u043f\u043e\u043c\u043e\u0447\u044c \u043f\u043e\u043d\u044f\u0442\u044c, \u0447\u0435\u043c \u0432\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c\u0441\u044f.\n\u2800\u2800\n\u041c\u0438\u0440 \u0431\u043e\u043b\u044c\u0448\u043e\u0439, \u043f\u043e\u0437\u043d\u0430\u0432\u0430\u0439\u0442\u0435 \u0435\u0433\u043e, \u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u043d\u0430 \u0432\u043a\u0443\u0441, \u0442\u0440\u043e\u0433\u0430\u0439\u0442\u0435 \u0435\u0433\u043e \u0441\u0432\u043e\u0438\u043c\u0438 \u0440\u0443\u043a\u0430\u043c\u0438.\n\u2800\u2800\n\u0421 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043f\u043e \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u044b\u0439 \u043a\u0443\u0440\u0441 \u0436\u0443\u0440\u0444\u0430\u043a\u0430 \u044f \u0436\u0438\u043b\u0430 \u043f\u043e \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0443 \u00ab\u0432\u0441\u0435\u0433\u0434\u0430 \u0433\u043e\u0432\u043e\u0440\u0438 \u0434\u0430\u00bb \u0438 \u0441\u043e\u0433\u043b\u0430\u0448\u0430\u043b\u0430\u0441\u044c \u043d\u0430 \u0432\u0441\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0434\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c, \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c, \u043a\u0443\u0434\u0430-\u0442\u043e \u043f\u043e\u0435\u0445\u0430\u0442\u044c.\n\u2800\u2800\n\u0427\u0435\u0440\u0435\u0437 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043b\u0435\u0442 \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u043e\u0442 \u044d\u0442\u043e\u0433\u043e \u043e\u0442\u043e\u0448\u043b\u0430, \u043a\u043e\u0433\u0434\u0430 \u043d\u0430\u0448\u043b\u0430 \u043b\u044e\u0431\u0438\u043c\u044b\u0435 \u0437\u0430\u043d\u044f\u0442\u0438\u044f \u0438 \u0440\u0430\u0431\u043e\u0442\u0443. \u041d\u043e \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u043e\u0442 \u043d\u043e\u0432\u043e\u0433\u043e \u043d\u0435 \u0437\u0430\u043a\u0440\u044b\u043b\u0430\u0441\u044c.\n\u2800\u2800\n\u041a\u0442\u043e \u043d\u0435 \u0437\u043d\u0430\u0435\u0442, \u043a\u0443\u0434\u0430 \u0438\u0434\u0442\u0438; \u0438\u043b\u0438 \u043a\u0442\u043e \u0445\u043e\u0447\u0435\u0442 \u043f\u043e\u043c\u0435\u043d\u044f\u0442\u044c \u0436\u0438\u0437\u043d\u044c \u2014 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u0444\u0438\u043b\u044c\u043c \u0441 \u0414\u0436\u0438\u043c\u043e\u043c \u041a\u0435\u0440\u0440\u0438 \u00ab\u0432\u0441\u0435\u0433\u0434\u0430 \u0433\u043e\u0432\u043e\u0440\u0438 \u0434\u0430\u00bb \u0438 \u0431\u0435\u0440\u0438\u0442\u0435 \u0438\u0434\u0435\u044e \u043d\u0430 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u0438\u0435. \u0414\u0430\u0436\u0435 \u043d\u0435 \u0432\u043e\u0437\u0432\u0435\u0434\u0451\u043d\u043d\u044b\u0439 \u0432 \u0430\u0431\u0441\u043e\u043b\u044e\u0442, \u043f\u0440\u0438\u043d\u0446\u0438\u043f \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0441\u0442\u0438 \u043a \u043d\u043e\u0432\u043e\u043c\u0443 \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u043d\u0430\u0447\u0430\u0442\u044c \u0434\u0432\u0438\u0433\u0430\u0442\u044c\u0441\u044f. \u041e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435, \u043a\u0443\u0434\u0430 \u0438\u0434\u0442\u0438.\n\u2800\n\ud83d\udcf8 @senya_portnova"
+                    }
+                  }]
+                },
+                "shortcode": "BvFq-AhlaoC",
+                "edge_media_to_comment": {
+                  "count": 1517
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1552781006,
+                "dimensions": {
+                  "height": 1349,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/56925396b6baf55ad4ad7d754dd7d5cf/5D4B9196/t51.2885-15/e35/52862851_553060021768820_7832399654069647009_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 132632
+                },
+                "edge_media_preview_like": {
+                  "count": 132632
+                },
+                "location": {
+                  "id": "212999109",
+                  "has_public_page": true,
+                  "name": "Los Angeles, California",
+                  "slug": "los-angeles-california"
+                },
+                "gating_info": null,
+                "media_preview": "ACEq1wKqf2hDv2Ak+4HH/wBf8KTUJjFASOC3yj8ev6ZrFs4N5BzgLQxrU6cEMMjkHoRQRVSyjMQ2E7g3zL6D1A/nVw0CGYop1FAGBqcpkYIPup1/3j/gKoxzGM8fl249R3FajW2Vx3JH8+tZkkZR8Nxk/wBaRReN35jrsygGTj0zjge2K0LW7MpIbHtWGpEbZPboPWrkU6jYOh6H2PY/Q+tSVubu4UVT3H1oouLlEMqoMn/65rHuC1yzORhUH5en4nNXCfnb6LT7sAW5A46fzqiTKSASdDg+/NatvaKgZpDkbCDxjA65/DHFZsXWtOU/uG/4D/Ol1KtoZPnS+porRwKKm5Vj/9k=",
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/a47de04c33687a0bd6b1b34bc2ad64de/5D37320E/t51.2885-15/sh0.08/e35/c0.134.1080.1080a/s640x640/52862851_553060021768820_7832399654069647009_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/891139f13f7f2eb71b081067911c4c10/5D315CC5/t51.2885-15/e35/c0.134.1080.1080a/s150x150/52862851_553060021768820_7832399654069647009_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/4dc0de9c19b71a7386e52b033111b460/5D4C498F/t51.2885-15/e35/c0.134.1080.1080a/s240x240/52862851_553060021768820_7832399654069647009_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/d9c960b38033ff6c7834816e7c307b95/5D2CBC35/t51.2885-15/e35/c0.134.1080.1080a/s320x320/52862851_553060021768820_7832399654069647009_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/6507e2b8e010b783180bf83eea0cd5a0/5D4E516F/t51.2885-15/e35/c0.134.1080.1080a/s480x480/52862851_553060021768820_7832399654069647009_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/a47de04c33687a0bd6b1b34bc2ad64de/5D37320E/t51.2885-15/sh0.08/e35/c0.134.1080.1080a/s640x640/52862851_553060021768820_7832399654069647009_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "Image may contain: 1 person"
+              }
+            }, {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "1997357378769936879",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u041c\u0438\u043d\u0443\u0441 \u0434\u0435\u0432\u044f\u0442\u044c?? \u0414\u0430 \u043b\u0430\u0434\u043d\u043e, \u0443 \u043c\u0435\u043d\u044f \u043c\u0438\u043d\u0443\u0441 \u0448\u0435\u0441\u0442\u044c \u0438 \u044f \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u0432\u0438\u0436\u0443\n\u0410 \u0442\u044b \u043b\u0438\u043d\u0437\u044b \u043d\u043e\u0441\u0438\u0448\u044c, \u0434\u0430?\n\u0410 \u043f\u043e\u0447\u0435\u043c\u0443 \u0441\u0442\u0435\u043a\u043b\u0430 \u0442\u0430\u043a \u0438\u0441\u043a\u0430\u0436\u0430\u044e\u0442?\n\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u044e \u043f\u043e\u0447\u0435\u043c\u0443 \u043d\u0435 \u0441\u0434\u0435\u043b\u0430\u0435\u0448\u044c?\n\u0410 \u0434\u0430\u0439 \u043e\u0447\u043a\u0438 \u043f\u043e\u043c\u0435\u0440\u0438\u0442\u044c\n\u0411\u043e\u0436\u0435, \u043a\u0430\u043a \u0442\u044b \u0432 \u043d\u0438\u0445 \u0445\u043e\u0434\u0438\u0448\u044c, \u044d\u0442\u043e \u0436\u0435 \u0443\u0436\u0430\u0441!!!!!\n\u0421\u043a\u043e\u043b\u044c\u043a\u043e \u043f\u0430\u043b\u044c\u0446\u0435\u0432 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e?\n\u0414\u0435\u043b\u0430\u0439 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044e \u041e\u0411\u042f\u0417\u0410\u0422\u0415\u041b\u042c\u041d\u041e\n\u041d\u0435 \u0434\u0435\u043b\u0430\u0439 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044e \u041d\u0418 \u0412 \u041a\u041e\u0415\u041c \u0421\u041b\u0423\u0427\u0410\u0415\n\u2800\n...\u0438 \u0435\u0449\u0451 \u0442\u044b\u0441\u044f\u0447\u0438 \u0432\u043e\u043f\u0440\u043e\u0441\u043e\u0432 \u0431\u043b\u0438\u0437\u043e\u0440\u0443\u043a\u043e\u043c\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0443\n\u2800\n\u0421\u0435\u0440\u044c\u0435\u0437\u043d\u043e, \u0441\u0442\u043e\u0438\u0442 \u043c\u043d\u0435 \u0443\u043f\u043e\u043c\u044f\u043d\u0443\u0442\u044c \u0441\u0432\u043e\u0439 \u043c\u0438\u043d\u0443\u0441 \u0438\u043b\u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u044f\u0432\u0438\u0442\u044c\u0441\u044f \u0432 \u0441\u0442\u043e\u0440\u0438\u0437 \u0432 \u043e\u0447\u043a\u0430\u0445 \u2014 \u0437\u0430\u0432\u0430\u043b\u0435\u043d\u043d\u044b\u0439 \u0414\u0438\u0440\u0435\u043a\u0442 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\n\u2800\n\u042f \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e \u043f\u043e\u043d\u0438\u043c\u0430\u044e \u0432\u0430\u0448\u0435 \u043b\u044e\u0431\u043e\u043f\u044b\u0442\u0441\u0442\u0432\u043e, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043f\u0438\u0448\u0443 \u044d\u0442\u043e\u0442 \u043f\u043e\u0441\u0442\n\u2800\n\u0417\u0440\u0435\u043d\u0438\u0435 \u0443 \u043c\u0435\u043d\u044f \u043f\u043b\u043e\u0445\u043e\u0435 \u0441 \u0434\u0435\u0442\u0441\u0442\u0432\u0430, \u043d\u043e \u0434\u043e \u0441\u0440\u0435\u0434\u043d\u0435\u0439 \u0448\u043a\u043e\u043b\u044b \u044f \u0445\u043e\u0434\u0438\u043b\u0430 \u0431\u0435\u0437 \u043e\u0447\u043a\u043e\u0432 \u2014 \u0431\u044b\u043b\u043e \u0435\u0449\u0451 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e, \u0438 \u044f \u0441\u0442\u0435\u0441\u043d\u044f\u043b\u0430\u0441\u044c \u0441\u043a\u0430\u0437\u0430\u0442\u044c \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044f\u043c, \u0447\u0442\u043e \u043d\u0435 \u0432\u0438\u0436\u0443 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043d\u043e\u0435 \u043d\u0430 \u0434\u043e\u0441\u043a\u0435. \u041f\u043e\u0447\u0435\u043c\u0443-\u0442\u043e \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043e\u0432\u0430\u043b\u0430, \u0441\u0447\u0438\u0442\u0430\u043b\u0430 \u043f\u043b\u043e\u0445\u043e\u0435 \u0437\u0440\u0435\u043d\u0438\u0435 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u043e\u043c. \u0414\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u043f\u043e\u043c\u043d\u044e, \u043a\u0430\u043a \u0432 \u043c\u043e\u0438 11-12 \u043a\u0442\u043e-\u0442\u043e \u043d\u0430\u0437\u0432\u0430\u043b \u043c\u0435\u043d\u044f \u0441\u043b\u0435\u043f\u043e\u0439 \u043a\u0443\u0440\u0438\u0446\u0435\u0439. \u042f \u0440\u0430\u0441\u0441\u0442\u0440\u043e\u0438\u043b\u0430\u0441\u044c, \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0438\u0437\u0432\u0438\u043d\u0438\u043b\u0441\u044f, \u043d\u043e...\n\u2800\n\u041c\u043e\u0438 \u043f\u0435\u0440\u0432\u044b\u0435 \u043e\u0447\u043a\u0438 \u0431\u044b\u043b\u0438 \u043d\u0430 -4,5\n\u041f\u043e\u0442\u043e\u043c \u0437\u0440\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u043b\u043e \u043f\u043e\u043d\u0435\u043c\u043d\u043e\u0433\u0443 \u043f\u0430\u0434\u0430\u0442\u044c\n\u2800\n\u0421\u0435\u0439\u0447\u0430\u0441 \u0443 \u043c\u0435\u043d\u044f \u0431\u043e\u043b\u0435\u0435-\u043c\u0435\u043d\u0435\u0435 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0435 -9,5. \u041c\u0438\u043d\u0438\u043c\u0443\u043c \u0440\u0430\u0437 \u0432 \u043f\u043e\u043b\u0433\u043e\u0434\u0430 \u0445\u043e\u0436\u0443 \u043a \u0432\u0440\u0430\u0447\u0443 \u043d\u0430 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0443. \u041d\u043e\u0448\u0443 \u043e\u0434\u043d\u043e\u0434\u043d\u0435\u0432\u043d\u044b\u0435 \u043b\u0438\u043d\u0437\u044b \u043d\u0430 -8. \u0412 \u0410\u043c\u0435\u0440\u0438\u043a\u0435 \u0432\u0440\u0430\u0447 \u0432\u044b\u043f\u0438\u0441\u0430\u043b \u043d\u043e\u0432\u044b\u0435 \u043d\u0430 -8,5.\n\u2800\n\u0412 \u043e\u0447\u043a\u0430\u0445 \u043d\u0430 -9,5 \u043d\u0435\u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u043e, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0443 \u043c\u0435\u043d\u044f \u0441\u0442\u0435\u043a\u043b\u0430 -8.\n\u2800\n\u042f \u0431\u044b \u0445\u043e\u0442\u0435\u043b\u0430 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044e, \u043d\u043e \u043d\u0430\u0434\u043e \u0434\u043e\u0436\u0434\u0430\u0442\u044c\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u0443\u0445\u0443\u0434\u0448\u0435\u043d\u0438\u0435 \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f. \u0412\u0440\u043e\u0434\u0435 \u0431\u044b, \u043e\u0431\u044b\u0447\u043d\u043e \u044d\u0442\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u043a 25 \u0433\u043e\u0434\u0430. \u041c\u043d\u0435 24,5.\n\u2800\n\u0412\u043e\u043f\u0440\u043e\u0441\u044b?\n\u2800\nPS \u0437\u0430\u0431\u044b\u043b\u0430 \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c: \u0443 \u043c\u0435\u043d\u044f \u0435\u0441\u0442\u044c \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f \u043f\u043e \u0432\u0438\u0434\u0430\u043c \u0441\u043f\u043e\u0440\u0442\u0430, \u0433\u0434\u0435 \u0435\u0441\u0442\u044c \u043f\u043e\u0437\u044b \u0432\u043d\u0438\u0437 \u0433\u043e\u043b\u043e\u0432\u043e\u0439. \u041a \u0444\u0438\u0442\u043d\u0435\u0441\u0443 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u0439 \u043d\u0435\u0442."
+                    }
+                  }]
+                },
+                "shortcode": "Bu4CfQbFmHv",
+                "edge_media_to_comment": {
+                  "count": 2582
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1552323575,
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/1c741d5630a302a4fc58cfd992475d0c/5D3EA3FA/t51.2885-15/e35/54512682_2290590001226680_6633088283985688247_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 112202
+                },
+                "edge_media_preview_like": {
+                  "count": 112202
+                },
+                "location": {
+                  "id": "212999109",
+                  "has_public_page": true,
+                  "name": "Los Angeles, California",
+                  "slug": "los-angeles-california"
+                },
+                "gating_info": null,
+                "media_preview": "ACoq1p7jy2CDG5skZ6ADqT/T3qSOUuM/X/I9qw72aQXDDOApyuenQcfQ96ltryQP83zKQxwOxAJwDSuVbQ0JbsxsQNvyDLZODz2X3+tWS+F3dhz+GM1g3UzlmXH3yOccAYwR+XFX5rwNECgyZMj6Y4P488Urja2J4bkyHHHTIxnj2OR157Vdrnorwq+5wdqrtP1J+9+g4rogKaE1Yzb21Wb5nYKF7+3/AOuoobFUUmNg2QcE9AcY/wD181Yu2IZACASTjIzkgcUlqxbfk5IPOOOdoz/9egOlyk9oVbBkUMemc/5/OnHTnChVcDBJOQepAzj8RmiZ8CQ7iACcjj0wB+NW7t/LgY5wdpA+uKSsNt6GaLEygqsqtjr1rolOABWPZEKq7io3L8vQE9O/UmtemhMw78MZCd2NjKVz247VBCzICu7O9XJx64zn610gUHqKNo9BSsO/kck2DwGGCQSOfbr9CKleYPEBId21mA9cYHf8a6nYvoPypNo9B+VFg5jlZEDWueAYm456AgEj365rq16D6Ck2j0H5UlNEvU//2Q==",
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/5959c3fd9693ac333ad02623a62001a0/5D29AB40/t51.2885-15/sh0.08/e35/s640x640/54512682_2290590001226680_6633088283985688247_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/41ae152021cf0788305ff6cdebb459b6/5D3143C5/t51.2885-15/e35/s150x150/54512682_2290590001226680_6633088283985688247_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/b6b8bb237ddbb8027f3e58c7b9ee90f8/5D375DC3/t51.2885-15/e35/s240x240/54512682_2290590001226680_6633088283985688247_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/a9df8491ab01b779472cac656c90ffd7/5D3BF8BD/t51.2885-15/e35/s320x320/54512682_2290590001226680_6633088283985688247_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/d1867c27777bdd6b0f8861072a5b36c8/5D3639FA/t51.2885-15/e35/s480x480/54512682_2290590001226680_6633088283985688247_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/5959c3fd9693ac333ad02623a62001a0/5D29AB40/t51.2885-15/sh0.08/e35/s640x640/54512682_2290590001226680_6633088283985688247_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "Image may contain: 6 people, eyeglasses and sunglasses"
+              }
+            }, {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "1996916985205086939",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u043f\u043b\u0430\u043d\u044b:\n\u2800\n\u0417\u0430\u043a\u043e\u043d\u0447\u0438\u0442\u044c \u043a\u0443\u0440\u0441 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u0438 \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u0432 \u041c\u043e\u0441\u043a\u0432\u0443. \u0421\u043e\u0441\u043a\u0443\u0447\u0438\u043b\u0430\u0441\u044c \u0441\u0442\u0440\u0430\u0448\u043d\u043e\n\u2800\n\u041d\u0430\u0439\u0442\u0438 \u043d\u043e\u0432\u0443\u044e \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0443\n\u2800\n\u0412\u044b\u043f\u0443\u0441\u043a\u0430\u0442\u044c \u043d\u0430 \u043a\u0430\u043d\u0430\u043b\u0435 \u043d\u0435 \u043c\u0435\u043d\u044c\u0448\u0435 \u043e\u0434\u043d\u043e\u0433\u043e \u0432\u0438\u0434\u0435\u043e \u0432 \u043d\u0435\u0434\u0435\u043b\u044e\n\u2800\n\u0417\u0430\u043d\u043e\u0432\u043e \u043f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u0432\u0435\u0431\u0438\u043d\u0430\u0440 \u043f\u0440\u043e \u0440\u0435\u043a\u043b\u0430\u043c\u0443 \u0443 \u0431\u043b\u043e\u0433\u0435\u0440\u043e\u0432. \u041f\u0440\u043e\u0448\u043b\u044b\u0439 \u0431\u044b\u043b \u043f\u043e\u0447\u0442\u0438 \u0433\u043e\u0434 \u043d\u0430\u0437\u0430\u0434, \u043f\u043e\u0440\u0430 \u043e\u0431\u043d\u043e\u0432\u0438\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e\n\u2800\n\u0417\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u043a\u0443\u0440\u0441 \u043f\u043e \u0432\u0438\u0437\u0443\u0430\u043b\u0443 (\u0441\u0435\u0439\u0447\u0430\u0441 \u043e\u043d \u0432 \u043c\u043e\u043d\u0442\u0430\u0436\u0435)\n\u2800\n\u041e\u0442\u043a\u0440\u044b\u0442\u044c \u0440\u0435\u043a\u043b\u0430\u043c\u043d\u043e\u0435 \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e (\u0430\u043a\u0442\u0438\u0432\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u043c, \u043d\u0430\u0434\u0435\u044e\u0441\u044c, \u0431\u044b\u0441\u0442\u0440\u043e \u0441\u0442\u0430\u0440\u0442\u0430\u043d\u0435\u043c)\n\u2800\n\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0431\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0443\u044e \u0432\u0438\u0437\u0443 \u0438 \u0443\u043b\u0435\u0442\u0435\u0442\u044c \u0432 \u041b\u043e\u043d\u0434\u043e\u043d (\u043f\u0440\u0435\u0441\u0441-\u0442\u0443\u0440)\n\u2800\n\u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u0443 \u043d\u0430\u0434 \u043a\u043d\u0438\u0433\u043e\u0439: \u043e\u0431\u043b\u043e\u0436\u043a\u0430, \u0440\u0435\u0434\u0430\u043a\u0442\u0443\u0440\u0430 \u0438 \u0442.\u0434.\n\u2800\n\u0412\u044b\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u043d\u043e\u0432\u0443\u044e \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044e \u043d\u0430 @mitroshinashop\n\u2800\n\u041d\u0430\u0447\u0430\u0442\u044c \u0442\u0440\u0430\u0442\u0438\u0442\u044c \u0433\u0440\u0430\u043d\u0442 \u042f\u043d\u0434\u0435\u043a\u0441\u0430 \u0438 \u0443\u043b\u0443\u0447\u0448\u0430\u0442\u044c EasyPrBot. \u041c\u044b \u0443\u0436\u0435 \u043f\u0435\u0440\u0435\u0434\u0435\u043b\u0430\u043b\u0438 \u043f\u043e\u0434\u0430\u0447\u0443 \u0437\u0430\u044f\u0432\u043e\u043a \u043d\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u0443, \u0441\u0442\u0430\u043b\u043e \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u0443\u0434\u043e\u0431\u043d\u0435\u0435.\n\u2800\n\u041f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u0433\u0438\u0432\n\u2800\n\u041e\u043f\u043b\u0430\u0442\u0438\u0442\u044c \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0432 New York Film Academy (\u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e \u043d\u0430 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c)\n\u2800\n\u041d\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u043e\u0441\u043e\u0431\u0438\u0435 \u043f\u043e \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0435. \u0414\u0430\u0432\u043d\u043e \u0445\u043e\u0447\u0443 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 mitroshina.org \u0440\u0430\u0437\u0434\u0435\u043b \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430\u043c\u0438. \u0411\u0443\u0434\u0443 \u0442\u0443\u0434\u0430 \u0432\u044b\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0442\u044c \u043f\u043e\u0441\u043e\u0431\u0438\u044f, \u0447\u0435\u043a-\u043b\u0438\u0441\u0442\u044b, \u0442\u0440\u0435\u043a\u0435\u0440\u044b \u043f\u0440\u0438\u0432\u044b\u0447\u0435\u043a \u0438 \u0442.\u0434.\n\u2800\n\u0418\u0437 \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0433\u043e: \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0447\u0438\u0442\u0430\u0442\u044c \u0438 \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c. I need to improve my English by September!\n\u2800\n\u2800\n\u2800\n\u041f\u043e\u043a\u0430 \u043d\u0435 \u043d\u0430\u0447\u0430\u043b\u0430 \u043f\u0438\u0441\u0430\u0442\u044c \u044d\u0442\u043e\u0442 \u043f\u043e\u0441\u0442, \u0434\u0443\u043c\u0430\u043b\u0430, \u0447\u0442\u043e \u043c\u043d\u0435 \u043d\u0435\u0447\u0435\u043c \u0437\u0430\u043d\u044f\u0442\u044c\u0441\u044f, \u0438 \u0432\u0441\u0435 \u0434\u0435\u043b\u0430 \u0441\u0434\u0435\u043b\u0430\u043d\u044b. \u0422\u0435\u043f\u0435\u0440\u044c \u0434\u0443\u043c\u0430\u044e: \u0430 \u043a\u043e\u0433\u0434\u0430 \u044f \u0432\u0441\u0435 \u044d\u0442\u043e \u0443\u0441\u043f\u0435\u044e. \u0412\u043e\u0442 \u0442\u0430\u043a \u0432\u0441\u0435\u0433\u0434\u0430))"
+                    }
+                  }]
+                },
+                "shortcode": "Bu2eWr9F9rb",
+                "edge_media_to_comment": {
+                  "count": 951
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1552271076,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/3c468da39c381e31184792a2d4793d6d/5D2B47E2/t51.2885-15/e35/52344950_649894695450305_8890664879955716690_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 110414
+                },
+                "edge_media_preview_like": {
+                  "count": 110414
+                },
+                "location": {
+                  "id": "44961364",
+                  "has_public_page": true,
+                  "name": "San Francisco, California",
+                  "slug": "san-francisco-california"
+                },
+                "gating_info": null,
+                "media_preview": "ACEqzljbJikJ3IPlHXIPp6jp9PwpJsPtYAD7oIHrjn8yMmp5oJrZhMAo2YxtJI/I9vXHHpTIXWabc3A5cj/a/CgBWQtyeBnr/n9KryHnaOa0ZZQRtTjI59cf4n1/GqDgAH6cfXPH40gIfmoqbD+n6UUATyXcxGGxj0x2+uTVRG2/N6kLikEmacuX4UZ7/wAqALUcZbIJ/H1PYfTFVwfmGegOfy6VqwqEi3Z7E/T2rPAC9OfrQMl+X/aoqPzD60UwIAQnAA/n/OlLnNRHrQaBFhZAFO7JJ6Y6fU1GWptI1AC76KjooA//2Q==",
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/268c53f8a8931c1c67062f2a74001961/5D3836A1/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/52344950_649894695450305_8890664879955716690_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/42763bd7af2a81ce2e47e28c270cd46b/5D42A4BA/t51.2885-15/e35/c0.135.1080.1080/s150x150/52344950_649894695450305_8890664879955716690_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/fce5379831478ac24976f6b3e5323e4d/5D3011F0/t51.2885-15/e35/c0.135.1080.1080/s240x240/52344950_649894695450305_8890664879955716690_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/80ae7b2b909ee0c902d586d643e8402a/5D2C4C4A/t51.2885-15/e35/c0.135.1080.1080/s320x320/52344950_649894695450305_8890664879955716690_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/5b49768b33d1471f2c06ed95d94fe6e9/5D32E010/t51.2885-15/e35/c0.135.1080.1080/s480x480/52344950_649894695450305_8890664879955716690_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/268c53f8a8931c1c67062f2a74001961/5D3836A1/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/52344950_649894695450305_8890664879955716690_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "Image may contain: 1 person, standing, tree, shoes, outdoor and nature"
+              }
+            }, {
+              "node": {
+                "__typename": "GraphSidecar",
+                "id": "1996300090118310568",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u041a\u0430\u043a \u044f \u0441\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0441\u044c \u0441 \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043e\u043c \u0438 \u043a\u0440\u0438\u0442\u0438\u043a\u043e\u0439 \u043e\u0442 \u043d\u0435\u0437\u043d\u0430\u043a\u043e\u043c\u044b\u0445 \u043b\u044e\u0434\u0435\u0439?\n\u2800\n\u041d\u0438\u043a\u0430\u043a, \u043e\u043d\u0430 \u0442\u0430\u043a \u0436\u0435 \u043c\u043e\u0436\u0435\u0442 \u043c\u0435\u043d\u044f \u0437\u0430\u0434\u0435\u0442\u044c \u0438 \u043e\u0431\u0438\u0434\u0435\u0442\u044c, \u043a\u0430\u043a \u0438 \u043b\u044e\u0431\u043e\u0433\u043e \u0438\u0437 \u0432\u0430\u0441.\n\u2800\n\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0434\u043b\u044f \u043a\u043e\u0433\u043e-\u0442\u043e \u044d\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0435\u043c, \u043d\u043e \u0431\u043b\u043e\u0433\u0435\u0440\u044b \u2014 \u044d\u0442\u043e \u043d\u0435 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u043b\u044e\u0434\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u0447\u0443\u0432\u0441\u0442\u0432\u0443\u044e\u0442 \u043e\u0442 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u043d\u044b\u0445 \u043a \u043d\u0438\u043c \u0441\u043b\u043e\u0432 :)\n\u2800\n\u0414\u043e\u043b\u044f \u043f\u0440\u0430\u0432\u0434\u044b \u0432 \u044d\u0442\u043e\u043c \u0435\u0441\u0442\u044c: \u044f \u043d\u0435 \u0442\u0430\u043a \u0431\u043b\u0438\u0437\u043a\u043e \u0432\u043e\u0441\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e \u043f\u043b\u043e\u0445\u0438\u0435 \u0432\u044b\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u043d\u0438\u044f, \u043a\u0430\u043a \u0440\u0430\u043d\u044c\u0448\u0435. \u0427\u0430\u0449\u0435 \u0432\u0441\u0435\u0433\u043e \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u044e \u0441 \u044e\u043c\u043e\u0440\u043e\u043c. \u042d\u0442\u043e \u043b\u0443\u0447\u0448\u0430\u044f \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f \u043f\u043e\u043c\u0438\u043c\u043e \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0437\u0430\u0431\u0430\u043d\u0438\u0442\u044c \u0438 \u0437\u0430\u0431\u044b\u0442\u044c, \u0447\u0435\u043c \u044f \u0441\u0442\u0430\u0440\u0430\u044e\u0441\u044c \u043d\u0435 \u0437\u043b\u043e\u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0442\u044c: \u043b\u044e\u0434\u0438 \u0441\u043a\u043b\u043e\u043d\u043d\u044b \u043c\u0435\u043d\u044f\u0442\u044c \u0441\u0432\u043e\u0435 \u043c\u043d\u0435\u043d\u0438\u0435 \u0438 \u043f\u043e\u0440\u043e\u0439 \u0434\u0430\u0436\u0435 \u0438\u0437\u0432\u0438\u043d\u044f\u0442\u044c\u0441\u044f \u0437\u0430 \u0441\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0435 \u043c\u043d\u0435 \u043a\u043e\u0433\u0434\u0430-\u0442\u043e \u0441\u043b\u043e\u0432\u0430.\n\u2800\n\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u0442\u043e\u0433\u043e, \u0447\u0442\u043e \u043c\u043d\u0435 \u043f\u0440\u0435\u0434\u044a\u044f\u0432\u043b\u044f\u044e\u0442, \u043c\u0435\u043d\u044f \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442. \u041c\u0435\u043d\u044f \u0441\u043c\u0435\u0448\u0430\u0442 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0437\u0430\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043c\u0435\u043d\u044f \u0441\u0442\u044b\u0434\u0438\u0442\u044c\u0441\u044f \u043c\u043e\u0438\u0445 \u0437\u0443\u0431\u043e\u0432, \u043d\u043e\u0441\u0430, \u043b\u0438\u0446\u0430, \u0432\u043e\u043b\u043e\u0441\u043a\u0430 \u043d\u0430 \u043f\u043e\u0434\u0431\u043e\u0440\u043e\u0434\u043a\u0435, \u043c\u0430\u043d\u0435\u0440\u044b \u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0431\u043b\u043e\u0433\u0430, \u0441\u0442\u0438\u043b\u044f, \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u044f \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u043a\u0438 \u0438 \u0442.\u0434.\n\u2800\n\u0410 \u0447\u0442\u043e \u0437\u0430\u0434\u0435\u0432\u0430\u0435\u0442? \u0422\u043e, \u0432 \u0447\u0435\u043c \u0441\u043e\u043c\u043d\u0435\u0432\u0430\u044e\u0441\u044c \u0441\u0430\u043c\u0430. \u0422\u043e, \u0447\u0442\u043e \u0434\u043b\u044f \u043c\u0435\u043d\u044f \u0432\u0430\u0436\u043d\u043e.\n\u2800\n\u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u044f \u043e\u0447\u0435\u043d\u044c \u043d\u0435 \u0443\u0432\u0435\u0440\u0435\u043d\u0430 \u0432 \u0441\u0432\u043e\u0451\u043c \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c. \u0417\u0430\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0435 \u0432 \u0433\u0440\u0443\u043f\u043f\u0443 \u04211 \u0432 \u044f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u0448\u043a\u043e\u043b\u0435 \u043c\u0435\u043d\u044f \u0443\u0434\u0438\u0432\u0438\u043b\u043e \u0438 \u043e\u0431\u0440\u0430\u0434\u043e\u0432\u0430\u043b\u043e. \u042f \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u0432\u0430\u0441 \u043e\u0431 \u044d\u0442\u043e\u043c. \u0418 \u043c\u0435\u043d\u044f \u0431\u043e\u043b\u044c\u043d\u043e \u0440\u0430\u043d\u0438\u043b\u0438 \u043e\u0431\u0432\u0438\u043d\u0435\u043d\u0438\u044f \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e \u044f \u0432\u0440\u0443 \u043e \u0441\u0432\u043e\u0435\u043c \u0443\u0440\u043e\u0432\u043d\u0435 \u0438 \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u0432\u043b\u0430\u0434\u0435\u044e \u044f\u0437\u044b\u043a\u043e\u043c \u0441\u043e\u0432\u0441\u0435\u043c \u043f\u043b\u043e\u0445\u043e.\n\u2800\n\u041f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u043b\u043e\u0433\u0438\u043a\u0443 \u0438 \u043f\u0440\u043e\u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u0444\u0430\u043a\u0442\u044b:\n\u2800\n\u2014\u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u041c\u041e\u0419 \u0438 \u041c\u041d\u0415 \u0441 \u043d\u0438\u043c \u0436\u0438\u0442\u044c/\u0443\u0447\u0438\u0442\u044c\u0441\u044f/\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c, \u0430 \u043d\u0435 \u0442\u0435\u043c, \u043a\u0442\u043e \u0435\u0433\u043e \u043a\u0440\u0438\u0442\u0438\u043a\u0443\u0435\u0442\n\u2014\u044f \u0440\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u043e \u0435\u0433\u043e \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u044e \u0438 \u043e\u043d \u0443\u043b\u0443\u0447\u0448\u0430\u0435\u0442\u0441\u044f, \u0442\u043e \u0435\u0441\u0442\u044c \u044f \u043d\u0430 \u0432\u0435\u0440\u043d\u043e\u043c \u043f\u0443\u0442\u0438\n\u2014\u043d\u0438\u043a\u0442\u043e \u043d\u0435 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043a\u0430\u043a \u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c, \u043f\u0440\u043e\u043f\u0443\u0441\u0442\u0438\u0432 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0435 \u0443\u0440\u043e\u0432\u043d\u0438 \u0432\u043b\u0430\u0434\u0435\u043d\u0438\u044f \u044f\u0437\u044b\u043a\u043e\u043c\n\u2800\n\u2800\n\u0427\u0442\u043e \u0435\u0449\u0435?\n\u2800\n\u041c\u0435\u043d\u044f \u0437\u0430\u0434\u0435\u0432\u0430\u044e\u0442 \u043e\u0431\u0432\u0438\u043d\u0435\u043d\u0438\u044f \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e \u044f \u0432\u0440\u0443 \u043e \u0441\u0432\u043e\u0435\u043c \u0434\u043e\u0445\u043e\u0434\u0435. \u041f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0434\u043b\u044f \u043c\u0435\u043d\u044f \u043c\u043e\u0439 \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u043e\u043a \u0432\u0430\u0436\u0435\u043d \u043a\u0430\u043a \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0435 \u043e\u0442\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0442\u043e\u0433\u043e, \u0447\u0442\u043e \u044f \u0445\u043e\u0440\u043e\u0448\u043e \u0434\u0435\u043b\u0430\u044e \u0441\u0432\u043e\u044e \u0440\u0430\u0431\u043e\u0442\u0443.\n\u2800\n\u0414\u0435\u043d\u044c\u0433\u0438 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0431\u044b\u043b\u0438 \u0434\u043b\u044f \u043c\u0435\u043d\u044f \u0441\u0430\u043c\u043e\u0446\u0435\u043b\u044c\u044e. \u041d\u043e \u0442\u043e, \u0447\u0442\u043e \u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u0430 \u0438\u0445 \u0437\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0442\u044c \u0447\u0435\u0441\u0442\u043d\u044b\u043c\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u0430\u043c\u0438 \u2014 \u0440\u0430\u0434\u0443\u0435\u0442 \u043c\u0435\u043d\u044f \u0438 \u0437\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u043e\u0431\u043e\u0439 \u0433\u043e\u0440\u0434\u0438\u0442\u044c\u0441\u044f.\n\u2800\n\u041a\u043e\u0433\u0434\u0430 \u043b\u044e\u0434\u0438 \u0441\u0442\u0430\u0432\u044f\u0442 \u043f\u043e\u0434 \u0441\u043e\u043c\u043d\u0435\u043d\u0438\u0435 \u043c\u043e\u0439 \u0434\u043e\u0445\u043e\u0434, \u043c\u043d\u0435 \u0441\u0440\u0430\u0437\u0443 \u0445\u043e\u0447\u0435\u0442\u0441\u044f \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0438\u043c, \u0447\u0442\u043e \u043e\u043d\u0438 \u043d\u0435 \u043f\u0440\u0430\u0432\u044b (\u044d\u0442\u043e \u043a\u0430\u043a\u043e\u0439-\u0442\u043e \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441?..). \u0421\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e \u044d\u0442\u043e\u0442 \u0438\u043c\u043f\u0443\u043b\u044c\u0441. \u0412 \u043a\u043e\u043d\u0446\u0435 \u043a\u043e\u043d\u0446\u043e\u0432, \u0433\u043b\u0430\u0432\u043d\u043e\u0435 \u2014 \u044d\u0442\u043e \u0442\u043e, \u0447\u0442\u043e \u043c\u043e\u0438 \u0434\u0435\u043d\u044c\u0433\u0438 \u0443 \u043c\u0435\u043d\u044f \u0435\u0441\u0442\u044c, \u0430 \u043d\u0435 \u0442\u043e, \u0432\u0435\u0440\u0438\u0442\u0435 \u043b\u0438 \u0432\u044b \u0432 \u044d\u0442\u043e.\n\u2800\n\u2800\n\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0435\ud83d\udc49\ud83c\udffb\n\u2800"
+                    }
+                  }]
+                },
+                "shortcode": "Bu0SFrolQqo",
+                "edge_media_to_comment": {
+                  "count": 1728
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1552197537,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/111109efe333ed6d51f3be0c18969c3c/5D433A9F/t51.2885-15/e35/52813644_789201111444730_3524270809066874653_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 106440
+                },
+                "edge_media_preview_like": {
+                  "count": 106440
+                },
+                "location": {
+                  "id": "137242643",
+                  "has_public_page": true,
+                  "name": "Santa Monica, California",
+                  "slug": "santa-monica-california"
+                },
+                "gating_info": null,
+                "media_preview": null,
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/2918f2ebe84681c45fc1aead9a8c8ed1/5D4DF4DC/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/52813644_789201111444730_3524270809066874653_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/289cfffcda6fc7f6da2eee75a843bbbd/5D42E3C7/t51.2885-15/e35/c0.135.1080.1080/s150x150/52813644_789201111444730_3524270809066874653_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/acd8b2e876c83b5b28dd7d702bcffcd7/5D2AFA8D/t51.2885-15/e35/c0.135.1080.1080/s240x240/52813644_789201111444730_3524270809066874653_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/f8d39ad4a37a43900606cca609d6a71c/5D4C7637/t51.2885-15/e35/c0.135.1080.1080/s320x320/52813644_789201111444730_3524270809066874653_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/38e6b0447b92b59d79f2fac60a391a4c/5D2DA26D/t51.2885-15/e35/c0.135.1080.1080/s480x480/52813644_789201111444730_3524270809066874653_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/2918f2ebe84681c45fc1aead9a8c8ed1/5D4DF4DC/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/52813644_789201111444730_3524270809066874653_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "Image may contain: 1 person, standing, sky, child and outdoor"
+              }
+            }, {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "1994794085068990972",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u041c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u0438\u043b\u0430 \u043a\u043e\u0435-\u0447\u0442\u043e \u043a\u0440\u0443\u0442\u043e\u0435 \u0434\u043b\u044f \u0432\u0430\u0441 \u0432 \u0447\u0435\u0441\u0442\u044c 8 \u041c\u0430\u0440\u0442\u0430\n\u2800\n\u041f\u0435\u0440\u0432\u043e\u0435.\n\u041d\u0430 \u0441\u0430\u0439\u0442\u0435 MITROSHINA.ORG \u0442\u0435\u043f\u0435\u0440\u044c \u0435\u0441\u0442\u044c \u0444\u0443\u043d\u043a\u0446\u0438\u044f \u00ab\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0447\u0430\u0441\u00bb. \u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043f\u0435\u0440\u0432\u044b\u0439 \u0447\u0430\u0441 \u043b\u044e\u0431\u043e\u0433\u043e (!) \u0432\u0435\u0431\u0438\u043d\u0430\u0440\u0430. \u0412\u0441\u0435 \u043e\u043d\u0438 \u0434\u043b\u044f\u0442\u0441\u044f 2-3 \u0447\u0430\u0441\u0430, \u0431\u0435\u0437 \u0432\u043e\u0434\u044b, \u0441 \u0441\u0430\u043c\u043e\u0433\u043e \u043d\u0430\u0447\u0430\u043b\u0430 \u0438\u0434\u0435\u0442 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043f\u043e\u043b\u044c\u0437\u0430, \u0442\u0430\u043a \u0447\u0442\u043e \u0438\u0437 \u044d\u0442\u043e\u0433\u043e \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0447\u0430\u0441\u0430 \u043c\u043e\u0436\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043e\u0447\u0435\u043d\u044c \u043c\u043d\u043e\u0433\u043e\u0435.\n\u2800\n\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u043d\u0435 \u043d\u0443\u0436\u043d\u0430, \u043f\u0440\u043e\u0441\u0442\u043e \u0437\u0430\u0445\u043e\u0434\u0438\u0442\u0435 \u043d\u0430 \u0441\u0430\u0439\u0442 (\u0441\u0441\u044b\u043b\u043a\u0430 \u0432 \u0448\u0430\u043f\u043a\u0435 \u043f\u0440\u043e\u0444\u0438\u043b\u044f) \u0438 \u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435. \u0413\u043e\u0432\u043e\u0440\u044f\u0442, \u0441\u0430\u043c\u044b\u0439 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0432\u0435\u0431\u0438\u043d\u0430\u0440 \u043c\u043e\u0449\u043d\u044b\u0439 \u2014 \u00ab\u041b\u0438\u0447\u043d\u044b\u0439 \u0431\u0440\u0435\u043d\u0434 \u0438 \u043c\u043e\u043d\u0435\u0442\u0438\u0437\u0430\u0446\u0438\u044e \u0418\u043d\u0441\u0442\u0430\u0433\u0440\u0430\u043c\u0430\u00bb. \u0421\u043e\u0432\u0435\u0442\u0443\u044e \u043d\u0430\u0447\u0430\u0442\u044c \u0441 \u043d\u0435\u0433\u043e, \u0442\u0430\u043c \u0432 \u043f\u0435\u0440\u0432\u043e\u043c \u0447\u0430\u0441\u0435 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043c\u043e\u0438\u0445 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043e\u043a \u0438 \u043a\u0440\u0443\u0442\u044b\u0445 \u0438\u043d\u0441\u0430\u0439\u0442\u043e\u0432 :)\n\u2800\n\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0447\u0430\u0441 \u043f\u0440\u0438\u0437\u0432\u0430\u043d \u043f\u043e\u043c\u043e\u0447\u044c \u0432\u0430\u043c \u0441\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0435\u043d\u0438\u0435 \u043e \u043c\u043e\u0435\u043c \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0435 \u0435\u0449\u0451 \u0434\u043e \u043f\u043e\u043a\u0443\u043f\u043a\u0438. \u0414\u0443\u043c\u0430\u044e, \u044d\u0442\u043e \u0432\u0430\u0436\u043d\u043e. \u041e\u0433\u0440\u043e\u043c\u043d\u043e\u0435 \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0438\u0434\u0435\u044e \u0438 \u043f\u043e\u043c\u043e\u0449\u044c \u0432 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 @snezone. \u041d\u0430 \u0437\u0430\u043c\u0435\u0442\u043a\u0443: \u0443 \u043d\u0435\u0435 \u043e \u0444\u0438 \u0433\u0435\u043d \u043d\u0435\u0439 \u0448\u0438\u0439  \u0431\u043b\u043e\u0433 \u043e \u0447\u0435\u0441\u0442\u043d\u043e\u043c \u0431\u0438\u0437\u043d\u0435\u0441\u0435. \u041f\u043e\u0434\u043f\u0438\u0448\u0438\u0442\u0435\u0441\u044c.\n\u2800\n\u2800\n\u2800\n\u0412\u0442\u043e\u0440\u043e\u0435.\n\u0412 \u0447\u0435\u0441\u0442\u044c 8 \u043c\u0430\u0440\u0442\u0430 \u043c\u044b \u0434\u043e\u0431\u0430\u0432\u0438\u043b\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442 \u043f\u0440\u043e\u043c\u043e\u043a\u043e\u0434 SPRING, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u0430\u0435\u0442 \u0441\u043a\u0438\u0434\u043a\u0443 10% \u043d\u0430 \u043b\u044e\u0431\u043e\u0439 \u0432\u0435\u0431\u0438\u043d\u0430\u0440 \u0438 \u043f\u0430\u043a\u0435\u0442 \u0432\u0435\u0431\u0438\u043d\u0430\u0440\u043e\u0432.\n\u0426\u0415\u041d\u042b \u041d\u0410 \u0421\u0410\u0419\u0422\u0415 \u0423\u041a\u0410\u0417\u0410\u041d\u042b \u0411\u0415\u0417 \u0423\u0427\u0415\u0422\u0410 \u0421\u041a\u0418\u0414\u041a\u0418, \u043e\u043d\u0430 \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u0438 \u043e\u043f\u043b\u0430\u0442\u0435\n\u2800\n\u2800\n\u2800\n\u0422\u0440\u0435\u0442\u044c\u0435.\n\u041f\u0430\u043a\u0435\u0442\u044b \u0432\u0435\u0431\u0438\u043d\u0430\u0440\u043e\u0432 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c\u044e \u043e\u0442 3000 \u0440\u0443\u0431\u043b\u0435\u0439 \u0442\u0435\u043f\u0435\u0440\u044c \u043c\u043e\u0436\u043d\u043e \u043a\u0443\u043f\u0438\u0442\u044c \u0432 \u0440\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0443 \u043d\u0430 6 \u0438\u043b\u0438 12 \u043c\u0435\u0441\u044f\u0446\u0435\u0432. \u041e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 \u043e\u043d\u043b\u0430\u0439\u043d \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 \u043f\u043e\u043a\u0443\u043f\u043a\u0438. \u0423\u0441\u043b\u043e\u0432\u0438\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 MITROSHINA.ORG.\n\u2800\n\u2800\n\u2800\n\u0427\u0435\u0442\u0432\u0435\u0440\u0442\u043e\u0435.\n\u0420\u043e\u0432\u043d\u043e \u043d\u0430 1 \u0441\u0443\u0442\u043a\u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u0430 \u0440\u0430\u0441\u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u043a\u0443\u0440\u0441\u043e\u0432 \u0432 \u043d\u0430\u0448\u0435\u0439 \u0441 @dmitryputylin \u0448\u043a\u043e\u043b\u0435 \u00ab\u0422\u043e\u0447\u043d\u044b\u0439 \u0444\u0438\u0442\u043d\u0435\u0441\u00bb:\n\u25aa\ufe0f\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0434\u043b\u044f \u0437\u0430\u043b\u0430 \u0441\u0442\u043e\u0438\u0442 2999 \u0440\u0443\u0431\u043b\u0435\u0439 \u0432\u043c\u0435\u0441\u0442\u043e 3999\n\u25aa\ufe0f\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0434\u043b\u044f \u0434\u043e\u043c\u0430 \u2014 1499 \u0432\u043c\u0435\u0441\u0442\u043e 1999.\n\u2800\n\u0412 \u043b\u044e\u0431\u043e\u0439 \u043a\u0443\u0440\u0441 \u0432\u0445\u043e\u0434\u0438\u0442: \u0447\u0430\u0442 \u0441 \u0433\u0440\u0443\u043f\u043f\u043e\u0439, \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u0443\u0440\u0430\u0442\u043e\u0440\u0441\u043a\u0430\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7, \u0432\u0438\u0434\u0435\u043e-\u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0438, \u0434\u0432\u0430 \u0432\u0435\u0431\u0438\u043d\u0430\u0440\u0430 \u043f\u043e \u043f\u0438\u0442\u0430\u043d\u0438\u044e, \u043e\u0442\u0432\u0435\u0442\u044b \u043d\u0430 \u043b\u044e\u0431\u044b\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b, \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u0432\u0430\u0448\u0435\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438.\n\u2800\n\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0435 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043d\u0435 \u0441\u0430\u0439\u0442\u0435 tochnyifitnes.ru (\u0441\u0441\u044b\u043b\u043a\u0430 \u0432 \u0448\u0430\u043f\u043a\u0435 \u043f\u0440\u043e\u0444\u0438\u043b\u044f) \u0438\u043b\u0438 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 @tochnyifitnes.\n\u2800\n\u2800\n\u2800\n\u0412\u0441\u0435\u0445 \u043b\u044e\u0431\u043b\u044e, \u043e\u0431\u043d\u0438\u043c\u0430\u044e \u0438 \u043f\u043e\u0437\u0434\u0440\u0430\u0432\u043b\u044f\u044e \u0441 \u043f\u0440\u0430\u0437\u0434\u043d\u0438\u043a\u043e\u043c \u0436\u0435\u043d\u0441\u043a\u043e\u0439 \u044d\u043c\u0430\u043d\u0441\u0438\u043f\u0430\u0446\u0438\u0438, \u0440\u0430\u0432\u043d\u043e\u043f\u0440\u0430\u0432\u0438\u044f \u0438 \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438.\n\u2800\u2028\u0412\u0430\u0448\u0430 \u0421\u0430\u0448\u0430 \u041c\u0438\u0442\u0440\u043e\u0448\u0438\u043d\u0430\n\u2800\n...GIRL POWER!\ud83d\udc4a\ud83c\udffb"
+                    }
+                  }]
+                },
+                "shortcode": "Buu7qbIlmn8",
+                "edge_media_to_comment": {
+                  "count": 643
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1552018007,
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/e9f048c3981a1f518e4c3c75d237fd8d/5D3AA2E9/t51.2885-15/e35/51573128_2189087228049156_5525121900173584436_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 62361
+                },
+                "edge_media_preview_like": {
+                  "count": 62361
+                },
+                "location": {
+                  "id": "212999109",
+                  "has_public_page": true,
+                  "name": "Los Angeles, California",
+                  "slug": "los-angeles-california"
+                },
+                "gating_info": null,
+                "media_preview": "ACoq0lXcdzdccUZxRhvpUTcdTVCLAcNweDTGI6ZxUI2/eNM81GyB1FIB5HORipg3FUWPYVLz3Y0AXQcimNggg0yDuDzmnOnHFMCnMgcbF6jk9ulV0IU4Xvj86laFsE45zSRRc5NT1GWGTyxvOM9Bj+dV9rnnB5qSWTewX0qbbTEOjApfM25z0zTzxTZgNv4imBC0pbpTGYoPc9KkUVFL99foaQDY0PfrVjNItQ5NAH//2Q==",
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/12ad5ae6faeac62d425eeed065924e35/5D4A6653/t51.2885-15/sh0.08/e35/s640x640/51573128_2189087228049156_5525121900173584436_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/5d2ed5b11e3723f4184ec6b117ad5849/5D4BA7D6/t51.2885-15/e35/s150x150/51573128_2189087228049156_5525121900173584436_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/7d9ca567fb79c9a30f4a9eb8451bb1ff/5D4F62D0/t51.2885-15/e35/s240x240/51573128_2189087228049156_5525121900173584436_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/e3478e4cfc9a9325c665561a615aa604/5D2F3AAE/t51.2885-15/e35/s320x320/51573128_2189087228049156_5525121900173584436_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/5cda8533937b12f7069216862d0c9584/5D354CE9/t51.2885-15/e35/s480x480/51573128_2189087228049156_5525121900173584436_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/12ad5ae6faeac62d425eeed065924e35/5D4A6653/t51.2885-15/sh0.08/e35/s640x640/51573128_2189087228049156_5525121900173584436_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "No photo description available."
+              }
+            }, {
+              "node": {
+                "__typename": "GraphSidecar",
+                "id": "1994047160485000081",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u041c\u043e\u0438 \u043d\u044b\u043d\u0435\u0448\u043d\u0438\u0435 \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u0430\n\u2800\n\u042d\u0442\u043e \u043f\u043e\u0441\u0442 \u043d\u0435 \u043e \u0447\u0435\u043c-\u0442\u043e \u0432\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u043c \u0432\u0440\u043e\u0434\u0435 \u00ab\u0432\u0441\u0435\u0433\u0434\u0430 \u0431\u044b\u0442\u044c \u0432\u0435\u0440\u043d\u043e\u0439 \u0441\u0435\u0431\u0435\u00bb, \u0430 \u043e \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u044b\u0445 \u0432\u0435\u0449\u0430\u0445\n\u2800\n\u041f\u043e\u0435\u0445\u0430\u043b\u0438:\n\u2800\n\ud83d\udd3a\u0415\u0441\u043b\u0438 \u043c\u043d\u0435 \u0447\u0442\u043e-\u0442\u043e \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442 \u0432 \u0433\u043e\u043b\u043e\u0432\u0443 \u2014 \u044f \u0434\u0435\u043b\u0430\u044e \u044d\u0442\u043e \u0441\u0440\u0430\u0437\u0443 \u0436\u0435\n\u2800\n\u041c\u044b \u0441 @linguamarina \u0435\u0445\u0430\u043b\u0438 \u0432\u0434\u043e\u043b\u044c \u043e\u043a\u0435\u0430\u043d\u0430 \u0432 \u0441\u0442\u043e\u0440\u043e\u043d\u0443 \u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e. \u041c\u0435\u043d\u044f \u0443\u043a\u0430\u0447\u0438\u0432\u0430\u043b\u043e, \u044f \u043b\u0435\u0436\u0430\u043b\u0430 \u043d\u0430 \u0437\u0430\u0434\u043d\u0435\u043c \u0441\u0438\u0434\u0435\u043d\u044c\u0435 \u0438 \u0441\u043c\u043e\u0442\u0440\u0435\u043b\u0430 \u0432 \u043f\u043e\u0442\u043e\u043b\u043e\u043a. \u0427\u0442\u043e\u0431\u044b \u043e\u0442\u0432\u043b\u0435\u0447\u044c\u0441\u044f, \u0431\u043e\u043b\u0442\u0430\u043b\u0430 \u0441 \u041c\u0430\u0440\u0438\u043d\u043e\u0439 \u043e \u0431\u043b\u043e\u0433\u0435\u0440\u0441\u0442\u0432\u0435. \u0412 \u0433\u043e\u043b\u043e\u0432\u0443 \u043f\u0440\u0438\u0448\u043b\u0430 \u0438\u0434\u0435\u044f \u0432\u0438\u0434\u0435\u043e, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u044f \u043c\u043e\u0433\u043b\u0430 \u0431\u044b \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u0434\u043b\u044f YouTube. \u0421\u043f\u0443\u0441\u0442\u044f \u0441\u0443\u0442\u043a\u0438 \u044f \u0435\u0433\u043e \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0430.\n\u2800\n\u2800\n\u042f \u043e\u0447\u0435\u043d\u044c \u0431\u044b\u0441\u0442\u0440\u043e \u0442\u0435\u0441\u0442\u0438\u0440\u0443\u044e \u043d\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0435 \u0438\u0434\u0435\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0442 \u043c\u043d\u0435 \u043d\u0430 \u0443\u043c, \u043d\u0435 \u0432\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u044f\u0441\u044c \u0432 \u043d\u0438\u0445 \u043a\u0430\u043a \u0432 \u0434\u0435\u043b\u043e \u0432\u0441\u0435\u0439 \u0436\u0438\u0437\u043d\u0438.\n\u042f \u043d\u0435 \u0441\u0442\u0430\u043b\u0430 \u0438\u0441\u043a\u0430\u0442\u044c \u0441\u0430\u043c\u043e\u0433\u043e \u043b\u0443\u0447\u0448\u0435\u0433\u043e \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0430 \u0438 \u043f\u0440\u043e\u0434\u0443\u043c\u044b\u0432\u0430\u0442\u044c \u043d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u044b\u0439 \u0434\u0438\u0437\u0430\u0439\u043d\n\u041c\u043d\u0435 \u043d\u0443\u0436\u0435\u043d \u0431\u044b\u043b \u043c\u0438\u043d\u0438\u043c\u0443\u043c: \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0441\u0432\u0435\u0442, \u0437\u0432\u0443\u043a, \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0430 \u0438 \u0431\u0430\u0437\u043e\u0432\u043e\u0435 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 \u043a\u0430\u043d\u0430\u043b\u0430\n\u041f\u043e\u0439\u0434\u0435\u0442 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u2014 \u0443\u043b\u0443\u0447\u0448\u0443, \u043f\u043e\u043c\u0435\u043d\u044f\u044e, \u043d\u0430\u0439\u0434\u0443 \u043d\u043e\u0432\u044b\u0445 \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0435\u0439\n\u2800\n\u2800\n\u2800\n\ud83d\udd3a\u0418 \u0434\u0430, \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u043e:\n\u042f \u043d\u0435 \u0436\u0434\u0443, \u0447\u0442\u043e \u043b\u044e\u0431\u0430\u044f \u043f\u043e\u043f\u044b\u0442\u043a\u0430 \u0431\u0443\u0434\u0435\u0442 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0439\n\u2800\n\u041c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c, \u043c\u043d\u0435 \u043d\u0435 \u043f\u043e\u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u0441\u043d\u0438\u043c\u0430\u0442\u044c \u0432\u0438\u0434\u0435\u043e, \u0438\u043b\u0438 \u0443 \u043c\u0435\u043d\u044f \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c\u0441\u044f\n\u041c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c, \u044f \u0442\u0430\u043a \u0438 \u043d\u0435 \u0432\u044b\u0443\u0447\u0443 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439\n\u041c\u043e\u0436\u0435\u0442, \u043c\u043e\u0439 \u043d\u043e\u0432\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442 \u043d\u0435 \u0432\u0437\u043b\u0435\u0442\u0438\u0442\n\u2800\n\u041d\u043e \u044f \u043d\u0435 \u0443\u0437\u043d\u0430\u044e \u044d\u0442\u043e, \u043f\u043e\u043a\u0430 \u043d\u0435 \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u044e\n\u2800\n\u042f \u043d\u0435 \u0437\u043d\u0430\u043b\u0430, \u0441\u043c\u043e\u0433\u0443 \u043b\u0438 \u044f \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u043a\u043d\u0438\u0433\u0443, \u043f\u043e\u043a\u0430 \u044f \u043d\u0435 \u043d\u0430\u0447\u0430\u043b\u0430 \u0435\u0435 \u043f\u0438\u0441\u0430\u0442\u044c\n\u0418 \u044f \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u043b\u0430\n\u2800\n\u2800\n\ud83d\udd3a\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u0442\u043e\u0439 \u0436\u0435 \u043f\u043e\u0435\u0437\u0434\u043a\u0438 \u041c\u0430\u0440\u0438\u043d\u0430 \u043c\u043d\u0435 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0430, \u0447\u0442\u043e \u043a\u043e\u0433\u0434\u0430 \u043e\u043d\u0430 \u043d\u0430\u0447\u0430\u043b\u0430 \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e \u0443\u0447\u0438\u0442\u044c \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439, \u0442\u043e \u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e \u0432\u0435\u0441\u044c \u0440\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u0441\u0442\u0430\u043b\u0430 \u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0442\u044c \u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c. \u041d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u0447\u0438\u0442\u0430\u043b\u0430 \u0442\u043e\u043b\u044c\u043a\u043e \u0443\u0447\u0435\u0431\u043d\u0438\u043a\u0438.\n\u2800\n\u0422\u0435\u043f\u0435\u0440\u044c \u044d\u0442\u043e \u0438 \u043c\u043e\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u043e:\n\u2800\n\u0412\u0441\u0435 \u0441\u0435\u0440\u0438\u0430\u043b\u044b \u0438 \u0444\u0438\u043b\u044c\u043c\u044b \u0441\u043c\u043e\u0442\u0440\u044e \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c \u0441 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u043c\u0438 \u0441\u0443\u0431\u0442\u0438\u0442\u0440\u0430\u043c\u0438\n\u041a\u043d\u0438\u0433\u0438 \u2014 \u043f\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0442\u043e\u0436\u0435 \u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c, \u0443\u0436\u0435 \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u043b\u0430 \u043f\u0435\u0440\u0432\u0443\u044e\n\u2800\n\u0412\u0435\u0440\u043d\u0443\u0441\u044c \u0432 \u041c\u043e\u0441\u043a\u0432\u0443, \u0432\u043f\u0438\u0448\u0443 \u0447\u0442\u0435\u043d\u0438\u0435 \u0438 \u0444\u0438\u043b\u044c\u043c\u044b \u0432 \u0442\u0440\u0435\u043a\u0435\u0440 \u043f\u0440\u0438\u0432\u044b\u0447\u0435\u043a. \u041c\u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u043e \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f, \u0432\u0435\u0434\u044c \u044f \u043b\u0435\u0447\u0443 \u0443\u0447\u0438\u0442\u044c\u0441\u044f \u0432 New York Film Academy\n\u2800\n\u2800\n\ud83d\udd3a\u041c\u043e\u044f \u0441\u0443\u043f\u0435\u0440-\u0441\u0438\u043b\u0430 \u2014 \u044d\u0442\u043e \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430\n\u2800\n\u041e\u0442\u0441\u044e\u0434\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u043e:\n\u2800\n\u0435\u0441\u043b\u0438 \u044f \u0447\u0435\u0433\u043e-\u0442\u043e \u0445\u043e\u0447\u0443 \u0434\u043e\u0441\u0442\u0438\u0447\u044c, \u044f \u0443\u0434\u0435\u043b\u044f\u044e \u044d\u0442\u043e\u043c\u0443 \u0432\u0440\u0435\u043c\u044f \u0440\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u043e\n\u041d\u0430\u0448\u0435 \u0431\u0443\u0434\u0443\u0449\u0435\u0435 \u2014 \u044d\u0442\u043e \u0441\u0443\u043c\u043c\u0430 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u043c\u044b \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c \u0434\u043d\u0438 \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u043c\n\u2800\n\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0435 \u0432 \u0441\u0435\u0440\u0438\u0438\ud83d\udc49\ud83c\udffb"
+                    }
+                  }]
+                },
+                "shortcode": "BusR1PaFbOR",
+                "edge_media_to_comment": {
+                  "count": 894
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1551928967,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/46d78890518a9688bcf9db5b9fbc42d1/5D31D286/t51.2885-15/e35/53482486_2355177468038960_4275185212380630618_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 99528
+                },
+                "edge_media_preview_like": {
+                  "count": 99528
+                },
+                "location": {
+                  "id": "212999109",
+                  "has_public_page": true,
+                  "name": "Los Angeles, California",
+                  "slug": "los-angeles-california"
+                },
+                "gating_info": null,
+                "media_preview": null,
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/8eec18189c4800f613339e465b42f1bf/5D30311E/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/53482486_2355177468038960_4275185212380630618_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/e644cc1711d5beaa19539feab910f301/5D484989/t51.2885-15/e35/c0.135.1080.1080/s150x150/53482486_2355177468038960_4275185212380630618_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/7fa3f7c0fedaf145ab629f3c3c4683d2/5D4C558F/t51.2885-15/e35/c0.135.1080.1080/s240x240/53482486_2355177468038960_4275185212380630618_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/28961b467ea052cdfa6a823c2369f76f/5D3672F1/t51.2885-15/e35/c0.135.1080.1080/s320x320/53482486_2355177468038960_4275185212380630618_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/a4eca4505db2a09e3319913ea4093421/5D33C2B6/t51.2885-15/e35/c0.135.1080.1080/s480x480/53482486_2355177468038960_4275185212380630618_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/8eec18189c4800f613339e465b42f1bf/5D30311E/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/53482486_2355177468038960_4275185212380630618_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "Image may contain: 1 person, closeup"
+              }
+            }, {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "1993724771951786854",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u041f\u0440\u043e \u0435\u0434\u0443 \u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0435\n\u2800\n\u041e\u0433\u0440\u043e\u043c\u043d\u044b\u0435 \u043f\u043e\u0440\u0446\u0438\u0438 \u2014 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u0432\u0435\u0437\u0434\u0435 \u043f\u0440\u0438\u043d\u043e\u0441\u044f\u0442 \u043c\u043d\u043e\u0433\u043e \u0435\u0434\u044b. \u042f \u0447\u0430\u0441\u0442\u043e \u043d\u0435 \u0434\u043e\u0435\u0434\u0430\u044e. \u0418 \u0434\u0430, \u0442\u0443\u0442 \u043f\u0440\u0438\u043d\u044f\u0442\u043e \u043f\u0440\u043e\u0441\u0438\u0442\u044c \u0443\u043f\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0441 \u0441\u043e\u0431\u043e\u0439, \u043e\u0444\u0438\u0446\u0438\u0430\u043d\u0442\u044b \u0432\u043e\u0441\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u044d\u0442\u0443 \u043f\u0440\u043e\u0441\u044c\u0431\u0443 \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u043e \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e.\n\u2800\n\u0415\u0449\u0435 \u0437\u0434\u0435\u0441\u044c \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b \u043e\u0447\u0435\u0440\u0435\u0434\u0438 \u0432 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0430\u0445. \u0415\u0441\u043b\u0438 \u0443 \u043c\u0435\u0441\u0442\u0430 \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0440\u0435\u0439\u0442\u0438\u043d\u0433 \u2014 \u043e\u0431\u044b\u0447\u043d\u043e \u043d\u0435\u043b\u044c\u0437\u044f \u043f\u0440\u0438\u0439\u0442\u0438 \u0438 \u0441\u0435\u0441\u0442\u044c, \u0430 \u043d\u0430\u0434\u043e \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f \u0443 \u0445\u043e\u0441\u0442\u0435\u0441 \u043d\u0430 \u0432\u0445\u043e\u0434\u0435 \u0438 \u0436\u0434\u0430\u0442\u044c 30-40 \u043c\u0438\u043d\u0443\u0442 \u0434\u0430\u0436\u0435 \u0434\u043d\u0435\u043c \u0438\u043b\u0438 \u0443\u0442\u0440\u043e\u043c. \u0418 \u0432\u0441\u0435 \u0436\u0434\u0443\u0442! \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0442\u0443\u0442 \u0431\u043e\u043b\u0435\u0435 \u043f\u0440\u0438\u043d\u044f\u0442\u043e \u0435\u0441\u0442\u044c \u043d\u0435 \u0434\u043e\u043c\u0430, \u0447\u0435\u043c \u0443 \u043d\u0430\u0441. \u0412 \u041c\u043e\u0441\u043a\u0432\u0435 \u043e\u0447\u0435\u0440\u0435\u0434\u0438 \u043d\u0430 \u0432\u0445\u043e\u0434 \u043c\u043d\u0435 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u043d\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u044e\u0442\u0441\u044f.\n\u2800\n\u0415\u0449\u0435 \u0432 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0430\u0445 \u0447\u0430\u0441\u0442\u043e \u0443\u0442\u0440\u043e\u043c, \u0434\u043d\u0435\u043c \u0438 \u0432\u0435\u0447\u0435\u0440\u043e\u043c \u0440\u0430\u0437\u043d\u043e\u0435 \u043c\u0435\u043d\u044e \u0441 \u0440\u0430\u0437\u043d\u044b\u043c\u0438 \u0431\u043b\u044e\u0434\u0430\u043c\u0438.\n\u2800\n\u041d\u0435 \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0447\u0430\u0435\u0432\u044b\u0435 \u2014 \u043e\u0447\u0435\u043d\u044c (!) \u043f\u043b\u043e\u0445\u043e\u0439 \u0442\u043e\u043d. \u0421\u0434\u0435\u043b\u0430\u0442\u044c \u044d\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u0441 \u043a\u0430\u0440\u0442\u044b, \u0432\u043f\u0438\u0441\u0430\u0432 \u0441\u0443\u043c\u043c\u0443 \u0432 \u0447\u0435\u043a \u043f\u043e\u0441\u043b\u0435 \u043e\u043f\u043b\u0430\u0442\u044b \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0435\u0434\u044b.\n\u2800\n\u041e \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432\u044b\u0445 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430\u0445:\n\u2800\n1. \u041e\u0433\u0440\u043e\u043c\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440. \u0414\u0430\u0436\u0435 \u0432 \u043e\u0431\u044b\u0447\u043d\u043e\u043c \u0441\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442\u0435 \u0431\u043e\u043b\u044c\u0448\u0435, \u0447\u0435\u043c \u0432 \u0445\u043e\u0440\u043e\u0448\u0435\u043c \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u043c.\n2. \u041c\u043d\u043e\u0433\u043e \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0442\u043e\u0432\u0430\u0440\u043e\u0432: \u0434\u043b\u044f \u0441\u043f\u043e\u0440\u0442\u0441\u043c\u0435\u043d\u043e\u0432, \u0432\u0435\u0433\u0430\u043d\u043e\u0432, \u0431\u0435\u0437 \u0433\u043b\u044e\u0442\u0435\u043d\u0430.\n3. \u0422\u043e, \u0447\u0442\u043e \u043c\u043d\u0435 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f: \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0430\u0441\u0441\u043e\u0440\u0442\u0438\u043c\u0435\u043d\u0442 \u043d\u0430\u0440\u0435\u0437\u0430\u043d\u043d\u044b\u0445 \u0444\u0440\u0443\u043a\u0442\u043e\u0432 \u0438 \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u043e\u0439, \u043e\u0447\u0438\u0449\u0435\u043d\u043d\u043e\u0439 \u0438 \u0440\u0430\u0441\u0444\u0430\u0441\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u043e \u043f\u043e\u0440\u0446\u0438\u044f\u043c \u0435\u0434\u044b. \u041e\u0431\u044b\u0447\u043d\u0430\u044f \u0435\u0434\u0430 \u0442\u043e\u0436\u0435 \u043f\u0440\u043e\u0434\u0430\u0435\u0442\u0441\u044f \u0438 \u0432 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u043e\u043c \u043e\u0431\u044a\u0435\u043c\u0435, \u0438 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0438\u043c\u0438 \u0443\u043f\u0430\u043a\u043e\u0432\u043e\u0447\u043a\u0430\u043c\u0438 \u043d\u0430 \u043e\u0434\u0438\u043d \u0440\u0430\u0437. \u042f \u0432\u0438\u0434\u0435\u043b\u0430 \u043a\u043e\u0440\u043e\u0431\u043e\u0447\u043a\u0438 \u0441 \u043e\u0432\u0441\u044f\u043d\u043a\u043e\u0439, \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0435 \u043f\u0430\u043a\u0435\u0442\u0438\u043a\u0438 \u0441 \u0430\u0440\u0430\u0445\u0438\u0441\u043e\u0432\u043e\u0439 \u043f\u0430\u0441\u0442\u044b \u0438 \u0442.\u0434.\n\u2800\n\u0412 \u043c\u043e\u0435\u043c \u0440\u0430\u0439\u043e\u043d\u0435, \u0434\u0430 \u0438 \u0432\u043e\u043e\u0431\u0449\u0435 \u0432 \u041b\u0410 (\u0438 \u0432 \u0421\u0424, \u043d\u0430\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u044f \u0432\u0438\u0434\u0435\u043b\u0430) \u043e\u0433\u0440\u043e\u043c\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u043e\u0432 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u043a\u0443\u0445\u043d\u0438 \u2014 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0439, \u044f\u043f\u043e\u043d\u0441\u043a\u043e\u0439, \u043a\u043e\u0440\u0435\u0439\u0441\u043a\u043e\u0439, \u043c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0439 \u0438 \u0442.\u0434. \u042f \u043a\u0430\u0436\u0434\u044b\u0439 \u0434\u0435\u043d\u044c \u0445\u043e\u0436\u0443 \u0442\u043e \u0432 \u0440\u0430\u043c\u0435\u043d\u043d\u0443\u044e, \u0442\u043e \u0432 \u0441\u0443\u0448\u0438, \u0442\u043e \u0432 \u043a\u043e\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d.\n\u2800\n\u2800\n...\u041f\u0440\u044f\u043c\u043e \u0441\u0435\u0439\u0447\u0430\u0441 \u043c\u044b \u0441 \u043e\u0434\u043d\u043e\u0433\u0440\u0443\u043f\u043f\u043d\u0438\u043a\u0430\u043c\u0438 \u0437\u0430\u0432\u0442\u0440\u0430\u043a\u0430\u0435\u043c \u0432 \u043c\u0435\u0441\u0442\u043d\u043e\u0439 \u0443\u044e\u0442\u043d\u043e\u0439 \u043a\u0430\u0444\u0435\u0448\u043a\u0435 \u043f\u0435\u0440\u0435\u0434 \u0437\u0430\u043d\u044f\u0442\u0438\u044f\u043c\u0438\n\u2800\n\u0417\u0430 \u0441\u043e\u0441\u0435\u0434\u043d\u0438\u043c \u0441\u0442\u043e\u043b\u0438\u043a\u043e\u043c \u0441\u0438\u0434\u044f\u0442 \u0434\u0432\u0430 \u043f\u043e\u043b\u0438\u0446\u0435\u0439\u0441\u043a\u0438\u0445\n\u2800\n\u0418\u0433\u0440\u0430\u0435\u0442 \u0434\u0436\u0430\u0437\n\u2800\n\u041d\u0430 \u0443\u043b\u0438\u0446\u0435 \u0434\u043e\u0436\u0434\u044c, \u044f \u043f\u044c\u044e \u043a\u043e\u0444\u0435, \u0436\u0434\u0443 \u044f\u0438\u0447\u043d\u0438\u0446\u0443 \u0438 \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u0430\n\u2800\n\u2800\n#\u043c\u0438\u0442\u0440\u043e\u0448\u0438\u043d\u0430_\u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0443\u0435\u0442"
+                    }
+                  }]
+                },
+                "shortcode": "BurIh3sFTtm",
+                "edge_media_to_comment": {
+                  "count": 962
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1551890535,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/21a72e80f01277faa53e9928d5bba8db/5D4822EA/t51.2885-15/e35/53088417_269315290664846_4453329581605616092_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 93469
+                },
+                "edge_media_preview_like": {
+                  "count": 96443
+                },
+                "location": {
+                  "id": "5532165",
+                  "has_public_page": true,
+                  "name": "Blue Daisy",
+                  "slug": "blue-daisy"
+                },
+                "gating_info": null,
+                "media_preview": "ACEqM29sxUqHI9QMc/nUYmEhyoC57AYHpUS3Mm752x2JAAx6ds4/pUJkVWIzuDe+T/nP5ikBdKsvUf5+tCXRgI28huoIz2qqZR/E24DoBn+o4piOHbJO3HTnHP8AhQM0v7U/2B+X/wBaiqX2lf7z0UCIXAPB49D/AEPt6HtUHkMzBf7xAB7c1dvIgnzL90/p/wDWpumJulJ5wilse/QUDLEnk/OQMFlCrwOCOp/H1qlHasxwnzH+X1PtUxGT6nH/ANerS3O+Py+FCjr6ntn/AD71CZvKCS0I/wCzpP7yfmP8aKq+ZJ7UVZzmgYN6nceDx/n9P51Zt1jtwdowG7nr+Pt/XNN7kdv/AKzVBecxP+H9D/OpKG3Fzbrwih2PpwPxPf6Cq8TNJ2HHYd/Ss0VZhJyKdh8z7mjmT/nmf1oqvk0UyD//2Q==",
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/b85f8dba59c460c39cf3301c95725ab7/5D2D81A9/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/53088417_269315290664846_4453329581605616092_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/5eaa6f1c2295c2948f9ef8035bfe075c/5D3945B2/t51.2885-15/e35/c0.135.1080.1080/s150x150/53088417_269315290664846_4453329581605616092_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/d0c5986df229dff6716ecaf50158f73d/5D3963F8/t51.2885-15/e35/c0.135.1080.1080/s240x240/53088417_269315290664846_4453329581605616092_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/313b07a64df2eb1d74342e51b2c17d4c/5D343942/t51.2885-15/e35/c0.135.1080.1080/s320x320/53088417_269315290664846_4453329581605616092_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/1e29504b3514492d7a38bd5c27eb380f/5D334118/t51.2885-15/e35/c0.135.1080.1080/s480x480/53088417_269315290664846_4453329581605616092_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/b85f8dba59c460c39cf3301c95725ab7/5D2D81A9/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/53088417_269315290664846_4453329581605616092_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "No photo description available."
+              }
+            }, {
+              "node": {
+                "__typename": "GraphSidecar",
+                "id": "1991183690362033212",
+                "edge_media_to_caption": {
+                  "edges": [{
+                    "node": {
+                      "text": "\u0412\u0447\u0435\u0440\u0430 \u0441 \u041c\u0430\u0440\u0438\u043d\u043e\u0439 \u0433\u043e\u0432\u043e\u0440\u0438\u043b\u0438 \u043e \u0440\u043e\u043b\u0438 \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u044f \u0432 \u043d\u0430\u0448\u0435\u0439 \u0441\u0443\u0434\u044c\u0431\u0435\n\u2800\n\u042f \u0440\u043e\u0434\u0438\u043b\u0430\u0441\u044c \u0432 \u0441\u0435\u043c\u044c\u0435, \u0433\u0434\u0435 \u043c\u0435\u043d\u044f \u043c\u043e\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u043b\u0438 \u043b\u044e\u0431\u044b\u0435 \u0445\u043e\u0431\u0431\u0438 \u2800\n\u2800\n\u041d\u043e \u044f \u043c\u043e\u0433\u043b\u0430 \u0431\u044b \u0440\u0430\u0441\u0442\u0438 \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u0431\u044b \u043c\u043d\u0435:\n\u2800\n\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0435 \u0434\u043b\u044f \u0434\u0435\u0432\u043e\u0447\u0435\u043a\n\u0434\u0435\u0432\u043e\u0447\u043a\u0438 \u0433\u043b\u0443\u043f\u0435\u0435 \u043c\u0430\u043b\u044c\u0447\u0438\u043a\u043e\u0432\n\u0437\u0430\u0447\u0435\u043c \u0442\u0435\u0431\u0435 \u043d\u0435\u043c\u0435\u0446\u043a\u0438\u0439/\u043a\u0430\u0440\u0430\u0442\u044d/\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430\n\u0442\u0432\u043e\u044f \u0437\u0430\u0434\u0430\u0447\u0430 \u0432\u044b\u0439\u0442\u0438 \u0437\u0430\u043c\u0443\u0436\n\u0442\u044b \u043d\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u0430 \u043d\u0430 \u0431\u043e\u043b\u044c\u0448\u0435\u0435\n\u2800\n\u0411\u044b\u043b\u0430 \u0431\u044b \u044f \u0442\u0430\u043c, \u0433\u0434\u0435 \u044f \u0435\u0441\u0442\u044c \u0441\u0435\u0439\u0447\u0430\u0441?\n\u041d\u0435\u0442.\n\u2800\n\u2800\n\u2800\n\u0422\u0430\u043a\u0438\u0435 \u0441\u0435\u043c\u044c\u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442, \u0438 \u0434\u0435\u0432\u043e\u0447\u0435\u043a \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u0440\u0430\u0441\u0442\u044f\u0442 \u0442\u0430\u043a\n\u0422\u0430\u043a\u0438\u0435 \u0432\u0435\u0449\u0438 \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u043f\u0438\u0448\u0443\u0442 \u0432 \u0443\u0447\u0435\u0431\u043d\u0438\u043a\u0430\u0445 \u0438 \u043e\u0437\u0432\u0443\u0447\u0438\u0432\u0430\u044e\u0442 \u0433\u043e\u043b\u043e\u0441\u0430\u043c\u0438 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0432 \u0448\u043a\u043e\u043b\u0430\u0445 \u0438 \u0432\u0443\u0437\u0430\u0445\n\u041c\u044b \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u0432\u0438\u0434\u0438\u043c \u044d\u0442\u043e \u043f\u043e \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u043e\u0440\u0443 \u0438 \u0441\u043b\u044b\u0448\u0438\u043c \u043d\u0430 \u0440\u0430\u0434\u0438\u043e\n\u2800\n\u2800\n\u0415\u0441\u043b\u0438 \u0442\u044b \u2014 \u043e\u0434\u043d\u0430 \u0438\u0437 \u0434\u0435\u0432\u043e\u0447\u0435\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0432\u0435\u0440\u0438\u043b\u0438 \u0432 \u044d\u0442\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u0430, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0442\u0435\u0431\u044f \u0438\u043c \u0443\u0447\u0438\u043b\u0438 \u0441 \u0434\u0435\u0442\u0441\u0442\u0432\u0430,\n\u0442\u043e \u043f\u0443\u0441\u0442\u044c \u044f \u0431\u0443\u0434\u0443 \u0442\u0435\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u043e\u0437\u044c\u043c\u0451\u0442 \u0442\u0435\u0431\u044f \u0437\u0430 \u0440\u0443\u043a\u0443, \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u0442 \u0432 \u0433\u043b\u0430\u0437\u0430 \u0438 \u0441\u043a\u0430\u0436\u0435\u0442:\n\u2800\n\u2800\n\u0436\u0435\u043d\u0441\u043a\u043e\u0435 \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u2014 \u044d\u0442\u043e \u043b\u043e\u0436\u044c\n\u2800\n\u0435\u0433\u043e \u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442, \u0440\u0430\u0432\u043d\u043e \u043a\u0430\u043a \u0438 \u043c\u0443\u0436\u0441\u043a\u043e\u0433\u043e\n\u2800\n\u0442\u044b \u043c\u043e\u0436\u0435\u0448\u044c \u0441\u0430\u043c\u0430 \u0432\u044b\u0431\u0440\u0430\u0442\u044c, \u043a\u0430\u043a \u043f\u0440\u043e\u0436\u0438\u0442\u044c \u0441\u0432\u043e\u044e \u0436\u0438\u0437\u043d\u044c\n\u2800\n\u0442\u044b \u043d\u0435 \u0433\u043b\u0443\u043f\u0435\u0435 \u0438 \u043d\u0435 \u0441\u043b\u0430\u0431\u0435\u0435 \u043c\u0443\u0436\u0447\u0438\u043d\n\u2800\n\u0442\u044b \u2014 \u0442\u0430\u043a\u043e\u0439 \u0436\u0435 \u0447\u0435\u043b\u043e\u0432\u0435\u043a, \u043a\u0430\u043a \u043e\u043d\u0438, \u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u0430 \u043d\u0430 \u043c\u043d\u043e\u0433\u043e\u0435\n\u2800\n\u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0439 \u043b\u044e\u0434\u044f\u043c \u0441\u043b\u043e\u043c\u0430\u0442\u044c \u0442\u0432\u043e\u0438 \u043a\u0440\u044b\u043b\u044c\u044f \u0438 \u0437\u0430\u043f\u0435\u0440\u0435\u0442\u044c \u0442\u0435\u0431\u044f \u0432 \u043a\u043b\u0435\u0442\u043a\u0435 \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u0445 \u0441\u0442\u0435\u0440\u0435\u043e\u0442\u0438\u043f\u043e\u0432, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0441\u0438\u0434\u044f\u0442 \u043e\u043d\u0438 \u0441\u0430\u043c\u0438\n\u2800\n\u2800\n\u2800\n\u0414\u0430, \u0442\u0430\u043a \u043c\u043e\u0436\u043d\u043e\n\u0438 \u0447\u0442\u043e\u0431\u044b \u043e\u0431 \u044d\u0442\u043e\u043c \u0437\u043d\u0430\u043b\u0438 \u0432\u0441\u0435 \u0434\u0435\u0432\u043e\u0447\u043a\u0438, \u044f \u0438 \u0432\u0435\u0434\u0443 \u0441\u0432\u043e\u0439 \u0431\u043b\u043e\u0433\n\u2800\n#\u0441\u0430\u0448\u0438\u043d\u0444\u0435\u043c\u0438\u043d\u0438\u0437\u043c"
+                    }
+                  }]
+                },
+                "shortcode": "BuiGwRClJQ8",
+                "edge_media_to_comment": {
+                  "count": 2495
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1551587614,
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-frx5-1.cdninstagram.com/vp/ca24006aa1bb233e0ae75bd48baebc0c/5D38929F/t51.2885-15/e35/51794405_179333489706248_6735440360865710265_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "edge_liked_by": {
+                  "count": 120117
+                },
+                "edge_media_preview_like": {
+                  "count": 120117
+                },
+                "location": {
+                  "id": "44961364",
+                  "has_public_page": true,
+                  "name": "San Francisco, California",
+                  "slug": "san-francisco-california"
+                },
+                "gating_info": null,
+                "media_preview": null,
+                "owner": {
+                  "id": "186438325",
+                  "username": "alexandramitroshina"
+                },
+                "thumbnail_src": "https://scontent-frx5-1.cdninstagram.com/vp/dbb0754a8a052b09a54c0d8671687606/5D501B7A/t51.2885-15/sh0.08/e35/s640x640/51794405_179333489706248_6735440360865710265_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                "thumbnail_resources": [{
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/3bd000277f5b6823218dc0573fb62adc/5D3994DD/t51.2885-15/e35/s150x150/51794405_179333489706248_6735440360865710265_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 150,
+                  "config_height": 150
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/ccf530f466f6b8826bff897f050876f0/5D48A397/t51.2885-15/e35/s240x240/51794405_179333489706248_6735440360865710265_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 240,
+                  "config_height": 240
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/2b4b9de9ff99b86df9919651f60fdf11/5D4D6E2D/t51.2885-15/e35/s320x320/51794405_179333489706248_6735440360865710265_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 320,
+                  "config_height": 320
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/e5fe8977b04459d40486c038d4a5f4dc/5D368977/t51.2885-15/e35/s480x480/51794405_179333489706248_6735440360865710265_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 480,
+                  "config_height": 480
+                }, {
+                  "src": "https://scontent-frx5-1.cdninstagram.com/vp/dbb0754a8a052b09a54c0d8671687606/5D501B7A/t51.2885-15/sh0.08/e35/s640x640/51794405_179333489706248_6735440360865710265_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com",
+                  "config_width": 640,
+                  "config_height": 640
+                }],
+                "is_video": false,
+                "accessibility_caption": "Image may contain: one or more people and closeup"
+              }
+            }]
+          },
+          "edge_saved_media": {
+            "count": 0,
+            "page_info": {
+              "has_next_page": false,
+              "end_cursor": null
+            },
+            "edges": []
+          },
+          "edge_media_collections": {
+            "count": 0,
+            "page_info": {
+              "has_next_page": false,
+              "end_cursor": null
+            },
+            "edges": []
+          }
+        }
+      },
+      "felix_onboarding_video_resources": {
+        "mp4": "/static/videos/felix-onboarding/onboardingVideo.mp4/9d16838ca7f9.mp4",
+        "poster": "/static/images/felix-onboarding/onboardingVideoPoster.png/8fdba7cf2120.png"
+      },
+      "show_follow_dialog": false
+    }]
+  },
+  "hostname": "www.instagram.com",
+  "deployment_stage": "c2",
+  "platform": "web",
+  "rhx_gis": "adf9ce39c932f9f1938f2505a820d1a7",
+  "nonce": "dijAqx0HAgTKAL8+Ud8zMw==",
+  "mid_pct": 90.31915,
+  "zero_data": {},
+  "cache_schema_version": 3,
+  "server_checks": {},
+  "knobs": {
+    "acct:ntb": 0,
+    "cb": 0,
+    "captcha": 0,
+    "fr": 0
+  },
+  "to_cache": {
+    "gatekeepers": {
+      "cb": true,
+      "sw": true,
+      "seo": true,
+      "seoht": true,
+      "phone_qp": true,
+      "nt": true,
+      "rp": true,
+      "3": false,
+      "4": true,
+      "5": false,
+      "6": false,
+      "7": false,
+      "8": false,
+      "9": false,
+      "10": false,
+      "11": false,
+      "12": false,
+      "13": true,
+      "14": true,
+      "15": true,
+      "16": false,
+      "18": true,
+      "19": false,
+      "20": false,
+      "21": false,
+      "23": false,
+      "24": false,
+      "25": false,
+      "26": false
+    },
+    "qe": {
+      "sdc": {
+        "g": "",
+        "p": {}
+      },
+      "app_upsell": {
+        "g": "",
+        "p": {}
+      },
+      "igl_app_upsell": {
+        "g": "",
+        "p": {}
+      },
+      "direct_conversation_reporting": {
+        "g": "",
+        "p": {}
+      },
+      "frx_reporting": {
+        "g": "",
+        "p": {}
+      },
+      "general_reporting": {
+        "g": "",
+        "p": {}
+      },
+      "reporting": {
+        "g": "",
+        "p": {}
+      },
+      "acc_recovery_link": {
+        "g": "",
+        "p": {}
+      },
+      "notif": {
+        "g": "",
+        "p": {}
+      },
+      "show_copy_link": {
+        "g": "",
+        "p": {}
+      },
+      "p_edit": {
+        "g": "",
+        "p": {}
+      },
+      "404_as_react": {
+        "g": "",
+        "p": {}
+      },
+      "acc_recovery": {
+        "g": "control_with_cta_to_signup_02_22_18",
+        "p": {
+          "has_cta_to_signup": "false"
+        }
+      },
+      "bundle": {
+        "g": "",
+        "p": {}
+      },
+      "collections": {
+        "g": "",
+        "p": {}
+      },
+      "comment_ta": {
+        "g": "",
+        "p": {}
+      },
+      "su": {
+        "g": "",
+        "p": {}
+      },
+      "ebdsim_li": {
+        "g": "",
+        "p": {}
+      },
+      "ebdsim_lo": {
+        "g": "",
+        "p": {}
+      },
+      "empty_feed": {
+        "g": "",
+        "p": {}
+      },
+      "appsell": {
+        "g": "",
+        "p": {}
+      },
+      "heart_tab": {
+        "g": "",
+        "p": {}
+      },
+      "follow_button": {
+        "g": "",
+        "p": {}
+      },
+      "log_cont": {
+        "g": "test_intent_d",
+        "p": {
+          "has_contextual_d": "true"
+        }
+      },
+      "msisdn": {
+        "g": "",
+        "p": {}
+      },
+      "onetaplogin": {
+        "g": "default_opt_out",
+        "p": {
+          "default_value": "false",
+          "during_reg": "true",
+          "storage_version": "one_tap_storage_version"
+        }
+      },
+      "onetap": {
+        "g": "",
+        "p": {}
+      },
+      "profile_tabs": {
+        "g": "",
+        "p": {}
+      },
+      "multireg_iter": {
+        "g": "control_12_21",
+        "p": {
+          "has_new_phone_form": "false"
+        }
+      },
+      "reg_vp": {
+        "g": "test_group_2",
+        "p": {
+          "hide_value_prop": "true"
+        }
+      },
+      "report_media": {
+        "g": "",
+        "p": {}
+      },
+      "report_profile": {
+        "g": "",
+        "p": {}
+      },
+      "su_universe": {
+        "g": "",
+        "p": {}
+      },
+      "stale": {
+        "g": "",
+        "p": {}
+      },
+      "tp_pblshr": {
+        "g": "",
+        "p": {}
+      },
+      "felix": {
+        "g": "",
+        "p": {}
+      },
+      "felix_clear_fb_cookie": {
+        "g": "",
+        "p": {}
+      },
+      "felix_creation_duration_limits": {
+        "g": "",
+        "p": {}
+      },
+      "felix_creation_enabled": {
+        "g": "",
+        "p": {}
+      },
+      "felix_creation_fb_crossposting": {
+        "g": "",
+        "p": {}
+      },
+      "felix_creation_fb_crossposting_v2": {
+        "g": "",
+        "p": {}
+      },
+      "felix_creation_validation": {
+        "g": "",
+        "p": {}
+      },
+      "felix_creation_video_upload": {
+        "g": "",
+        "p": {}
+      },
+      "felix_early_onboarding": {
+        "g": "",
+        "p": {}
+      },
+      "profile_enhance_li": {
+        "g": "",
+        "p": {}
+      },
+      "profile_enhance_lo": {
+        "g": "test",
+        "p": {
+          "has_tagged": "true"
+        }
+      },
+      "comment_enhance": {
+        "g": "",
+        "p": {}
+      },
+      "mweb_topical_explore": {
+        "g": "",
+        "p": {}
+      },
+      "follow_all_fb": {
+        "g": "",
+        "p": {}
+      },
+      "a2hs_heuristic_uc": {
+        "g": "",
+        "p": {}
+      },
+      "a2hs_heuristic_non_uc": {
+        "g": "",
+        "p": {}
+      },
+      "web_hashtag": {
+        "g": "",
+        "p": {}
+      },
+      "web_hashtag_logged_out": {
+        "g": "test_hashtag_follow_lo",
+        "p": {}
+      },
+      "header_scroll": {
+        "g": "",
+        "p": {}
+      },
+      "web_share": {
+        "g": "",
+        "p": {}
+      },
+      "lite_rating": {
+        "g": "",
+        "p": {}
+      },
+      "web_embeds_share": {
+        "g": "",
+        "p": {}
+      },
+      "web_embeds_logged_out": {
+        "g": "control_comment_input",
+        "p": {
+          "show_comment_input": "false"
+        }
+      },
+      "web_datasaver_mode": {
+        "g": "",
+        "p": {}
+      },
+      "lite_datasaver_mode": {
+        "g": "",
+        "p": {}
+      },
+      "post_options": {
+        "g": "",
+        "p": {}
+      },
+      "igtv_creation_feed_preview": {
+        "g": "",
+        "p": {}
+      },
+      "igtv_public_viewing": {
+        "g": "",
+        "p": {}
+      },
+      "nux": {
+        "g": "",
+        "p": {}
+      },
+      "iglmsr": {
+        "g": "multi_step_reg",
+        "p": {
+          "has_prefill": "false",
+          "has_multi_step_registration": "true"
+        }
+      },
+      "igwsvl": {
+        "g": "",
+        "p": {}
+      },
+      "iglcp": {
+        "g": "has_prefill",
+        "p": {
+          "has_login_prefill": "true"
+        }
+      },
+      "lite_story_video_upload": {
+        "g": "",
+        "p": {}
+      },
+      "iglscioi": {
+        "g": "",
+        "p": {}
+      },
+      "ws2": {
+        "g": "",
+        "p": {}
+      },
+      "wpn": {
+        "g": "",
+        "p": {}
+      },
+      "lite_user_tag_creation": {
+        "g": "",
+        "p": {}
+      },
+      "iglcius": {
+        "g": "",
+        "p": {}
+      },
+      "wfvu": {
+        "g": "",
+        "p": {}
+      },
+      "iglsa": {
+        "g": "",
+        "p": {}
+      },
+      "igwllre": {
+        "g": "",
+        "p": {}
+      },
+      "wss2": {
+        "g": "",
+        "p": {}
+      },
+      "sticker_tray": {
+        "g": "",
+        "p": {}
+      },
+      "web_sentry": {
+        "g": "",
+        "p": {}
+      },
+      "igwspe": {
+        "g": "",
+        "p": {}
+      },
+      "0": {
+        "p": {},
+        "qex": true
+      },
+      "2": {
+        "p": {
+          "0": false
+        },
+        "qex": true
+      },
+      "3": {
+        "p": {
+          "0": false
+        },
+        "qex": true
+      },
+      "4": {
+        "p": {
+          "0": false
+        },
+        "qex": true
+      },
+      "5": {
+        "p": {
+          "0": false
+        },
+        "qex": true
+      },
+      "6": {
+        "p": {
+          "0": "12",
+          "1": true
+        },
+        "qex": true
+      },
+      "7": {
+        "p": {
+          "0": false
+        },
+        "qex": true
+      },
+      "8": {
+        "p": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false
+        },
+        "qex": true
+      },
+      "9": {
+        "p": {
+          "0": false,
+          "1": false,
+          "2": 2000,
+          "3": 100,
+          "4": 25
+        },
+        "qex": true
+      },
+      "10": {
+        "p": {
+          "0": false
+        },
+        "qex": true
+      }
+    },
+    "probably_has_app": false,
+    "cb": true
+  },
+  "rollout_hash": "34ad0264803e",
+  "bundle_variant": "metro",
+  "is_canary": false
+}
